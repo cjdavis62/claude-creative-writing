@@ -15,20 +15,33 @@ Format: each question gets a heading with date raised and status (`open`, `answe
 
 ---
 
-## 2026-05-01 — open — Do the prologue characters recur?
+## 2026-05-01 — partially answered — Do the prologue characters recur?
 
-The prologue introduces three figures who could be either single-use or recurring:
+1. **The girl** — *answered.* She is a separate person from the protagonist; recurs later as an older woman, either a meaningful character or a referenced figure. There is a significant time gap between the prologue and the main story's present.
+2. **The god** — *open, with author preference noted.* If this is the dying deity, the witness girl should haunt the narrative meaningfully. If this is a different god, the prologue's job is to render majesty/awe/weakness as a counterpoint to the present-day decline. We hold this open through the early fragments.
+3. **The village** — *answered.* This is the protagonist's home village. The god whose emergence is shown here is part of the village's history that the protagonist will inherit (likely in absent-god mode by the present day).
 
-1. **The girl (unnamed, ~7–9).** Is she the protagonist (Mira / the Mortal) as a child? If so, this fragment is loadbearing for her arc — the gateway-mark would already be present here, the moment that shapes her. If not, she is a separate village child whose later mythologization is part of the world's texture.
-    1. I think I like the idea of this girl being a woman later encountered in the story -- maybe she is a meaningful character that is seen, or just a passing reference later. Certainly there is a large time gap between the emergence of the god seen and the "present" day.
-2. **The god (unnamed, presents as male to the child).** Is this the dying deity emerging into his long mortal life? Is this someone else? Is the prose committing to anything about them by virtue of having shown them?
-    1. I don't have a decision here yet. If it is the dying deity, I would love for the seen child to haunt the narrative in some way. Otherwise, I want to show maybe more of the majesty and awe of the gods in this scene, and maybe some of their weakness as they arrive.
-3. **The village (unnamed).** Same question — is this the protagonist's home village, or a different community?
-    1. I think it should be her home village
+*Resolved (1) and (3) on 2026-05-01; (2) deliberately held open. Decisions logged in `DECISIONS.md`.*
 
-The deliberate ambiguity in the prose actually permits all three to remain undecided for now, which is useful: we can write further fragments and only commit when the larger arc demands it. But the answers shape what we can say in subsequent fragments without contradicting the prologue.
+---
 
-*Status: posed to the author 2026-05-01.*
+## 2026-05-01 — answered — Hard boundary on physical violence against children
+
+Raised in author feedback on the v1 prologue (mother slapping the child on her return). **Resolution:** no physical violence against children in this story. Hard boundary unless a scene truly requires it and the author explicitly signs off.
+
+*Resolved 2026-05-01. Logged in `DECISIONS.md`. Reflected in `STYLE_AND_VOICE.md` "Hard story boundaries" section. The v2 prologue replaces the slap with the mother on her knees in the lane, holding the girl and asking what happened.*
+
+---
+
+## 2026-05-01 — open (deferred) — If the prologue god turns out to be the dying deity, how does the witness girl "haunt the narrative"?
+
+If we eventually decide the god in the prologue is the dying deity (per the open question above), the author wants the witness girl to haunt the narrative meaningfully. Options to think about when the time comes:
+- The protagonist encounters her in present-day as an old woman who is the only living village memory of the god's arrival, and what she remembers (or refuses to remember) shapes a key scene.
+- She becomes a sign-watcher or reader of decline herself, grown up, marked by what she saw.
+- She is dead by the present-day but her account is preserved (accurately or otherwise) in village mythology, and the protagonist must reconstruct it.
+- She appears once, in passing, and the recognition is the protagonist's, not hers — a quiet moment of "this is the woman who was there."
+
+*Deferred until god identity is decided. Worth surfacing again at end of Phase 2.*
 
 ---
 

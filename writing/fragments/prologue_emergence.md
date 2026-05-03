@@ -1,71 +1,125 @@
 ---
 title: An Emergence
-status: second draft
+status: fifth draft
 function: prologue candidate — may serve as novel opening
 fragment_number: 1
-pov: a girl, unnamed, ~7–9 years old (later a separate woman who recurs)
-voice_register: in-the-moment close third, child consciousness
+pov: first person, child voice (~7–9 years old at the time of telling, narrating from later in life)
+voice_register: first person, body-first, mixed-tense, varied sentence openers; per `STYLE_AND_VOICE.md` voice exemplar and `skills/creative-writing-instructor/SKILL.md`
 withholding: name, era, gateway-proximity, god identity
 canon_committed_in_this_draft:
   - emergence is visibly a gateway/door — the witness sees it and glimpses through
-  - the village is the protagonist's home village (the girl is not the protagonist)
-  - the witness girl recurs later as an adult woman
+  - the village is the protagonist's home village (the witness is not the protagonist)
+  - the witness recurs later as an adult woman
   - divine speech is felt bodily, not only heard
+  - emergence has pre-emergence effects: animals sense the membrane straining; the sky shows subtle wrongness (familiar constellations become hard to find)
+  - sensitivity to emergence is heightened at the thresholds of life — the young and the old
+  - both Margot and the witness are changed by what they saw; the village mythologizes only the man
+  - pa brings the god (and Margot) down from the high pasture four days later
+  - the village has a peddler who comes in autumn; pa took the narrator stargazing one winter night
 date_drafted: 2026-05-01
+word_count_approx: 2150
 ---
 
-She had been told twice already to come home before dark, and the goat was still on the slope.
+Margot wasn't in her pen where she was supposed to be. Ma told me to go look for her. I asked twice if I had to be the one. Twice she said yes. The third time I asked, she did not say anything at all, only turned her face away from me. So I went.
 
-It had wandered up where the terraces ran out, where the old stone walls had collapsed years before her mother was born, where the grass grew between the fallen blocks in clumps the goats loved. The girl crossed the third wall and stopped, because she had never gone above the third wall, and she was not sure if her feet had decided to or her feet had refused.
+I wiped my eyes on the back of my hand before I went out the door. Tears were for the slope, where no one would see. Not the lane, where the smith would.
 
-The goat was somewhere ahead. She could hear it.
+It had been a strange afternoon. The chickens would not settle and Bram had been pacing the smith's yard since the sun went over the high field. Salt had not come in for milk, even when I called her by both her names. Ma's face had gone hard before any of it — before the goat, before the chickens. Ma had not eaten lunch.
 
-She stayed where she was for a while, her hand on the warm stone. Below her the village was beginning its evening — a thread of cookfire smoke from the smith's house, the high cracked voice of someone calling someone else. The light on the houses had gone the color of old straw. She thought about her mother, and she thought about the goat, and after a while she went on.
+The wrap she made me last winter hung on its peg by the door. I took it down, and the rope I used to lead Margot home when Margot was being herself, and went past the smith's, and up. Bram looked up when I passed. He did not stop pacing the fence. The smith called my name once, half a question, and I did not answer.
 
-Above the third wall, the slope changed. Less grass. More stone. A few bent pines that did not seem to know why they were there. The goat was further up than she had expected. She could see it now — a small brown shape against the darker stone, indifferent to her, indifferent to the light, doing the work goats do.
+I would not come home without her. That was the only thing I would let myself think.
 
-She was halfway to it when the air did something.
+Margot grazed the lower terraces. She had grazed the lower terraces every day I had been alive. Her places were what I went to first — the place by the fallen-block, the place she lay down at midday with her old eyes half-closed, the place she scratched her left horn against because the right one had been broken since before me. She was at none of them. The grass at none of them was bent or eaten new.
 
-She would never, in her life, have a word for what it did. Not as a child, not later. The closest she would come, much later, was to say that it *folded* — that the air, just for the breath of a breath, behaved like cloth, and then like water, and then like air again, but a different air.
+Her prints were in the soft place where the second terrace's wall had crumbled. They were on top of all the other prints — the goat prints and the herder prints that had been laid into that ground for as long as anyone could remember. Hers were sharper. Hers were fresher. Hers were Margot's.
 
-The skin on her arms went cold before her eyes understood why.
+I followed them. They went along the worn track for a while, and then they cut sideways. Off the worn track. Into ground that had no path on it.
+
+Old Margot never went off the path. I think Margot made the path, stubbornly trodding that trail over and over.
+
+I stood for a long minute. The light had been going, and this was only going to be harder if she weren't on the trail. Far up over the mountain the first stars were beginning to twinkle as the light faded. Pa would show me the constellations on my favorite nights, but I struggled to find any of the ones I knew yet.
+
+The off-track prints I followed anyway. I should have turned around. Margot was old. Margot was a goat. Ma would tell me Margot was a goat and that goats were not children and that we lose things, sometimes, and her face would do the hard thing it did when she said it. Pa was at the high pasture for two more days.
+
+I kept going.
+
+The off-track ground was rougher than the worn track. The prints were harder to read. Slower I walked, because I had to look. Once I lost them and went back fifteen paces and found where her hoof had skipped on a stone — a pale scratch on the stone's face, the size of my thumb. Once I found a stem of mountain-grass freshly bent.
+
+Goats argue with directions. Goats forget what they are doing and notice grass. These prints did not.
+
+The third wall came sooner than I had thought it would, and the prints went over it.
+
+At the wall I stood.
+
+The village was small below me. The cookfire smoke from the smith's house was a thread. Someone was calling someone, but the voice was thin and far, and the words were not words by the time they reached me. The light on the houses had gone the color of old straw. The village had never looked this small. It had not, before, been a thing that could be this small.
+
+Crossing the third wall was forbidden. Ma had told me with a story about a child who had crossed it and not come back. Pa had told me by putting his hand on the back of my neck, gentle, and turning my face toward the wall and saying *you understand?* until I said *I understand* back to him. The third wall was the line. Above the third wall was not for us.
+
+What to do at the third wall when the prints went over it — that I had not been told. Only not to cross.
+
+I crossed because the prints had crossed. Because I did not know how to go home without her, and crossing was the only thing I could think of. My feet had decided, or my feet had refused to wait. I did not know which. I had crossed.
+
+Above the third wall the slope went different. Less grass. More stone. A few bent pines, leaning the way trees lean when nothing has been there to argue with them. The prints went on. I followed them with my hand sometimes on the warm stone for balance, my eyes sometimes on the prints and sometimes on the place ahead of the prints, where the prints were going.
+
+Climbing the last of the way up to the top, my breath caught. Framed against the all-too-bright night sky, a brown shape. Bleating. At the sky.
+
+I stayed back. Margot had not lifted her head like that, ever. Not even when pa rushed the herd away from the wolf pack last spring. Pa always said that if she was going to be a wolf's meal, she would be damned (I was not supposed to know that word) if she were to miss her own. Old Margot ate first. Old Margot ate even when there were wolves. She did not lift her head for anything.
+
+She was lifting her head now. She was bleating at empty air.
+
+Halfway to her, the world broke.
+
+A word for what it did would never come to me. Not then. Not later. The closest I have come, when I have had to come close, is that the air and the ground flipped. The air had weight. The ground beneath my boots was less than the air. For one breath I stood on nothing, and the air held me up, and through the place that should have been ground I saw a light, very far below, that had no business being where it was. It was bright the way the sun is bright. It was not a sun. The sun goes around the other side at night. The sun was not under my feet.
+
+The brightness was.
+
+The skin on my arms went cold. The slope was a slope again. I stood on it the way Margot stood — neck up, breath stopped, looking at a place that had nothing in it.
 
 Above her, between two of the bent pines, something was taking shape that was not the slope.
 
-She would see, or remember seeing, a standing upright thing in the air. As wide as her own arms outstretched. As tall as a man, then taller. She could not have said its color. The closest she would come, much later, when she had to say something and could not bear the question being asked again, was that it had been the color of looking at the sun through closed eyelids.
+I would see, or remember seeing — and now I do not know which — a standing thing in the air. As wide as my own arms held out. As tall as a man, then taller. Its color I did not know then and do not know now. The closest I have come, when someone has had to ask and I have had to answer, is that it was the color of looking at the sun through closed eyelids.
 
-Through it, very quickly, she saw a horizon.
+Through it, very quickly, I saw a horizon.
 
-There was no horizon to see from the slope. The mountain behind her blocked everything to the west and the village rose against everything below. But for the moment the upright thing was open she saw, where it was, a horizon: a place where ground met sky, very far away, with light along the line where they met. Some of the light moved the wrong way. The horizon belonged to nothing she had ever stood on.
+There was no horizon to see from the slope. The mountain was at my back and the village was below. But where the standing thing was, for the breath of a breath, a horizon was: a place where ground met sky, very far away, with a light along the line where they met. Some of the light moved the wrong way. The horizon belonged to nothing I had ever stood on.
 
-Then the upright thing was closing, and there was someone standing on the slope.
+Then the standing thing was closing, and there was someone standing on the slope.
 
-A man, the girl decided after a moment, because she had to decide something.
+A man, I decided after a moment, because I had to decide something.
 
-He had not walked there. He had not been there a breath ago and he was there now. He stood with his hands a little out from his sides as though he had just set down a great weight. His clothes were dark and unmarked by dust, though the slope was nothing but dust. His hair was wet. There were no tears on his face but his face had the shape of a face that had just stopped weeping.
+He had not walked there. He had not been there a breath ago and he was there now. His hands were a little out from his sides as if he had set down something heavy. His clothes were dark. Not the dark of pa's leather. Not the dark of the dyed wool ma kept folded for the new year. They lay close to him the way nothing in the village lay on a person — not even the peddler's strange autumn cloth, which had come from somewhere with a name I could not say. He was not like the peddler. He was not like anyone. The dust that was on everything else on the slope was not on him. His hair was wet. There were no tears on his face but his face had the shape of a face that had just stopped weeping.
 
-The goat, far up the slope, was no longer making any sound. It stood with its head lifted toward him, perfectly still. The pines did not move. The wind did not come.
+Margot was still. Still the way pa was still when he thought he heard wolves last winter while taking me out to look at the stars. Her head was up. The pines did not move. The wind did not come.
 
-The light around him was wrong. She could not have said how. He cast no longer or shorter shadow than a man should cast, but the slope itself, near his feet, had a brightness to it that did not come from the sun.
+The light around him was wrong. He cast no longer or shorter shadow than a man should cast, but the slope itself, near his feet, had a brightness to it that did not come from the sun. The sun was on the other side.
 
-He did not see her at all.
+He did not see me at all.
 
-He looked at the slope. He looked at the pines. He looked at his own hands as though he had not seen them before. He pressed one of those hands flat against his own chest and held it there, the way a person does who is trying to remember whether they are breathing.
+He looked at the slope. He looked at the pines. He looked at his own hands as if he had not seen them before. He pressed one of those hands flat against his own chest and held it there, the way people do who are trying to remember whether they are breathing.
 
-She did not breathe. She did not move. She knew without thinking it that whatever was happening was not for her, that she was not even the smallest part of what was happening, and the knowing of this did not frighten her the way fear frightened her, because fear had a shape. This had no shape. This was a man standing on a slope she had been told never to climb, and the air around him had not yet remembered how to be air.
+My breath stopped. I did not move. The knowing came without thinking — that whatever was happening was not for me, that I was not even the smallest part of it, and the knowing did not frighten me the way fear frightened me, because fear had a shape. This had no shape. This was a man standing on a slope I had been told never to climb, and the air around him had not yet remembered how to be air.
 
-He turned, slowly, in a circle. He looked at the village below them. She saw him see it and not understand what he was seeing.
+He turned, slowly, in a circle. He looked at the village below. I saw him see it and not understand what he was seeing.
 
-He spoke. The word he spoke was not one she knew, but she felt it in the small bones of her hands. She understood, with a part of her that did not have a name yet, that the word was not in any language he could remember.
+He spoke. The word he spoke was not one I knew, and I felt it in the small bones of my hands. The understanding came with a part of me that did not have a name yet — that the word was not in any language he could remember.
 
-Then he saw her.
+Then he saw me.
 
-The goat made a small sound, somewhere up the slope, and then another, and put its head back down to the grass.
+Margot made a small sound, somewhere up the slope, and another, and put her head down to the grass.
 
-He did not move toward her. He did not move at all. His face changed, but only the way light changes on a hill when a cloud passes. Whatever he was seeing in her, she could not have said.
+He did not move toward me. He did not move at all. His face changed, but only the way light changes on a hill when a cloud passes. Whatever he was seeing in me, I could not have said.
 
-She did not remember the running, after. The slope. The terraces. The wall she had not been supposed to cross. None of it. Only — at some point, very low down, when the village houses were close — the realization that her face was wet, and that she did not know when it had started, and that she had not brought the goat.
+The running, after, I do not remember. The slope. The third wall. The terraces. None of it. Only — somewhere very low, when the village houses were close — that my face was wet, and I did not know when it had started, and that I had not brought Margot.
 
-Her mother was in the lane, still calling her name. She stopped calling when she saw her, and went down on her knees on the packed dirt, and held her, and held her, and asked her what had happened, what had happened, where had she been. The girl could not answer. She did not yet have any of the words.
+Ma was in the lane, still calling my name. She stopped calling when she saw me. She went down on her knees on the packed dirt and held me, and held me, and asked where I had been, what had happened, where I had been. I could not answer. The goat. I had not brought the goat.
 
-She would, later. The whole village would, by then. They would all have different words. None of them would be hers.
+She held me longer than she had ever held me.
+
+The look on her face was not the look I knew for losing things.
+
+Later — much later — the village would have words for what happened on the slope. They would all have different words. None of them would be mine.
+
+None of them would name what my ma had seen on me when I came home that night. None of them would name what walked beside pa four days later, when he came back from the high pasture and would not say where he had picked up the company. None of them would name the change in old Margot, who came down in pa's company too, but who never grazed the lower terraces again.
+
+They had words for everything but the changes.
