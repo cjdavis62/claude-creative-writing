@@ -63,6 +63,17 @@ The specific image does two things the general cannot: it creates a picture, and
 - An exhausted soldier describes the battle differently than a frightened merchant watching from a window.
 - What the POV character *doesn't* notice — or notices wrongly — is as revealing as what they do.
 
+### Interiority through action and observation
+
+Character interiority — fears, wants, memory, family ties, self-image — should appear in what the character does, notices, withholds, or remembers. Not in narrator summary.
+
+- **Fear:** not "she felt afraid." Show the body. Show the choice. Show what stops being possible.
+- **Want:** not "she wanted to find the goat." Show what she lets herself think about and what she does not. *I would not come home without her. That was the only thing I would let myself think.*
+- **Family:** not "her mother was strict." Show the tellings. Show the gesture. *Pa told me by putting his hand on the back of my neck, gentle, and turning my face toward the wall and saying* you understand? *until I said* I understand *back to him.*
+- **Self-knowledge:** not "she was a competent tracker." Show the work — the ground she had to look harder at, the print she went back fifteen paces to find. The character does the work; the reader sees the competence; the prose never names it.
+
+The replacement principle: **show the operation of the inner life through external evidence, not by narrating it.**
+
 ---
 
 ## Fantasy-Specific Craft
@@ -96,6 +107,7 @@ The specific image does two things the general cannot: it creates a picture, and
 - **Telling emotional states**: *She felt afraid.* Instead, show what fear does in the body, in the attention, in the action.
 - **Resolving tension too quickly**: tension is the engine. Don't answer the question the moment it's raised.
 - **Fantasy clichés**: orbs for eyes, azure/ebony/crimson, *time seemed to slow*, *a chill ran down her spine*. These phrases have been read so many times they register as filler.
+- **Telling that masquerades as showing**: prose that *sounds* literary because of generic-narrator framing but is actually doing nothing. The narrator commenting on the *mode* of perception, instead of being inside the perception. *"She noticed these things the way a child notices."* Cut. *"She knew the pattern of it the way a child knows the small rituals of an animal she has lived with."* Cut and replace with one specific image. If a sentence describes the character's *mode of perception* rather than the perception itself, it is wrong. This is dangerous because the sentences scan, have rhythm, use literary vocabulary — they sound like good prose. They are nevertheless empty.
 
 ---
 
