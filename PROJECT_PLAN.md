@@ -359,6 +359,7 @@ A suggested ordering. None of these phases needs to be "finished" before the nex
 **Phase 5 — Filling In**
 - Write the connective tissue between spine scenes.
 - This is the longest phase. The plan should be revisited at this point — by then the work will have taught you things this document can't anticipate.
+- **Build and deploy a fantasy-linguist/anthropologist skill** to conduct a rigorous pass over all provisional naming frameworks (council-society, absent-god culture, any others accumulated by this point) — interrogating internal consistency, cultural plausibility, linguistic distinctiveness across regions, and points of contact and borrowing between cultures. The pass produces a revised, authoritative naming document that replaces the provisional frameworks. All names flagged as provisional in fragment and wiki frontmatter get reviewed and (if needed) updated in this pass.
 - *Check in with you about:* a mid-phase pause to revisit this whole plan; whichever supporting characters are emerging as larger than expected; the four thematic questions from 4.1 (which by now should have provisional answers in the prose).
 
 **Phase 6 — Revision and Assembly**

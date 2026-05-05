@@ -45,8 +45,31 @@ If we eventually decide the god in the prologue is the dying deity (per the open
 
 ---
 
-## 2026-05-01 — open — Linguistic / cultural register for naming
+## 2026-05-01 — in progress — Linguistic / cultural register for naming
 
-The prologue avoids names entirely, which works for a deliberately-ambiguous prologue but will not scale. Subsequent fragments will need named characters and places. The `brainstorm/story_outline_v2.md` notes "names are on hold until the world's linguistic and cultural logic clarifies." When does this become blocking, and how do we want to approach it?
+The prologue avoids names entirely, which works for a deliberately-ambiguous prologue but will not scale. Subsequent fragments will need named characters and places. The `brainstorm/story_outline_v2.md` notes "names are on hold until the world's linguistic and cultural logic clarifies."
 
-*Status: posed to the author 2026-05-01. Probably revisit at end of Phase 2 unless an earlier fragment forces it.*
+*Status: author confirmed 2026-05-05 that naming logic should be settled before drafting The Tavern fragment. First framework (council-society culture) established and approved. Provisional names in use; full linguist/anthropologist review deferred to Phase 5 per PROJECT_PLAN.md.*
+
+---
+
+## 2026-05-05 — open — Which god in Vanaek is declining, and what is their domain?
+
+Fragment 2 (*The Vaelen at the Third Bell*) establishes that one of Vanaek's council gods is under strain — late bells, early rains that seem domain-related, an attendant (Sorin) who is managing information they cannot share. The fragment deliberately withholds the god's identity and domain.
+
+When we return to Vanaek, or when Vanaek is referenced in the main story, this will become relevant. Options to keep alive:
+- An agricultural or weather god (the rain and field subtext points here; fits the brainstorm's note that societies dependent on a god's boon lose the practical knowledge to function without it)
+- A god with a more abstract domain (knowledge, memory, craft) whose decline shows in subtler ways first
+- The most interesting choice may be one where the domain's failure is *legible* to the reader before anyone in the scene names it — we've already planted the weather/field hook
+
+*Status: open. Revisit when we draft a scene set in Vanaek again, or when the protagonist passes through.*
+
+---
+
+## 2026-05-05 — open — What is Sorin's full role and what do they do with what they know?
+
+Sorin is established as a god-attendant who knows more than they can say about their god's condition. The fragment's closing question is hanging: do they act? In what direction? Against the fiction the council is maintaining, or in support of it?
+
+If Sorin recurs (and they might — their relationship with Relen as an information pressure valve is worth using), the answer to this question shapes how the scene works.
+
+*Status: open. Deferred unless Sorin recurs.*
