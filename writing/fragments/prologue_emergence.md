@@ -1,11 +1,11 @@
 ---
 title: An Emergence
-status: fifth draft
+status: sixth draft
 function: prologue candidate — may serve as novel opening
 fragment_number: 1
-pov: first person, child voice (~7–9 years old at the time of telling, narrating from later in life)
+pov: first person, dual register — adult narrator's retrospective frame (opening + closing) wrapping child's account (body)
 voice_register: first person, body-first, mixed-tense, varied sentence openers; per `STYLE_AND_VOICE.md` voice exemplar and `skills/creative-writing-instructor/SKILL.md`
-withholding: name, era, gateway-proximity, god identity
+withholding: witness name, era, gateway-proximity, god identity, what the god found in the witness
 canon_committed_in_this_draft:
   - emergence is visibly a gateway/door — the witness sees it and glimpses through
   - the village is the protagonist's home village (the witness is not the protagonist)
@@ -16,9 +16,14 @@ canon_committed_in_this_draft:
   - both Margot and the witness are changed by what they saw; the village mythologizes only the man
   - pa brings the god (and Margot) down from the high pasture four days later
   - the village has a peddler who comes in autumn; pa took the narrator stargazing one winter night
+  - witness's handedness inverted by the emergence: went up right-handed, came down left-handed
+  - prologue's true subject is the witness, not the god — adult frame establishes this misdirection explicitly
 date_drafted: 2026-05-01
-word_count_approx: 2150
+date_revised: 2026-05-10
+word_count_approx: 2250
 ---
+
+The village will tell you the story of the night the god came to our mountain. Every version of it is about the god, but there is no version that compares to mine.
 
 Margot wasn't in her pen where she was supposed to be. Ma told me to go look for her. I asked twice if I had to be the one. Twice she said yes. The third time I asked, she did not say anything at all, only turned her face away from me. So I went.
 
@@ -38,7 +43,7 @@ I followed them. They went along the worn track for a while, and then they cut s
 
 Old Margot never went off the path. I think Margot made the path, stubbornly trodding that trail over and over.
 
-I stood for a long minute. The light had been going, and this was only going to be harder if she weren't on the trail. Far up over the mountain the first stars were beginning to twinkle as the light faded. Pa would show me the constellations on my favorite nights, but I struggled to find any of the ones I knew yet.
+I stood for a long minute. The light had been going, and this was only going to be harder if she weren't on the trail. Far up over the mountain the first stars were already out — too bright, and none of them where pa had taught me to find them.
 
 The off-track prints I followed anyway. I should have turned around. Margot was old. Margot was a goat. Ma would tell me Margot was a goat and that goats were not children and that we lose things, sometimes, and her face would do the hard thing it did when she said it. Pa was at the high pasture for two more days.
 
@@ -60,7 +65,7 @@ What to do at the third wall when the prints went over it — that I had not bee
 
 I crossed because the prints had crossed. Because I did not know how to go home without her, and crossing was the only thing I could think of. My feet had decided, or my feet had refused to wait. I did not know which. I had crossed.
 
-Above the third wall the slope went different. Less grass. More stone. A few bent pines, leaning the way trees lean when nothing has been there to argue with them. The prints went on. I followed them with my hand sometimes on the warm stone for balance, my eyes sometimes on the prints and sometimes on the place ahead of the prints, where the prints were going.
+Above the third wall the slope went different. A few bent pines, leaning the way trees lean when nothing has been there to argue with them. Less grass. More stone. The prints went on. I followed them with my right hand sometimes on the warm stone for balance, my eyes sometimes on the prints and sometimes on the place ahead of the prints, where the prints were going.
 
 Climbing the last of the way up to the top, my breath caught. Framed against the all-too-bright night sky, a brown shape. Bleating. At the sky.
 
@@ -102,13 +107,15 @@ My breath stopped. I did not move. The knowing came without thinking — that wh
 
 He turned, slowly, in a circle. He looked at the village below. I saw him see it and not understand what he was seeing.
 
-He spoke. The word he spoke was not one I knew, and I felt it in the small bones of my hands. The understanding came with a part of me that did not have a name yet — that the word was not in any language he could remember.
+He spoke. The word he spoke was not one I knew, and I felt it in the small bones of my hands. The understanding came with a part of me that did not have a name yet — that the word was not from any language this side of what he had crossed.
 
 Then he saw me.
 
 Margot made a small sound, somewhere up the slope, and another, and put her head down to the grass.
 
 He did not move toward me. He did not move at all. His face changed, but only the way light changes on a hill when a cloud passes. Whatever he was seeing in me, I could not have said.
+
+I had come up the slope for Margot. I moved toward her. The rope was in my left hand.
 
 The running, after, I do not remember. The slope. The third wall. The terraces. None of it. Only — somewhere very low, when the village houses were close — that my face was wet, and I did not know when it had started, and that I had not brought Margot.
 
@@ -118,8 +125,14 @@ She held me longer than she had ever held me.
 
 The look on her face was not the look I knew for losing things.
 
-Later — much later — the village would have words for what happened on the slope. They would all have different words. None of them would be mine.
+Later, the village found words for what happened on the slope. None of them were mine.
 
-None of them would name what my ma had seen on me when I came home that night. None of them would name what walked beside pa four days later, when he came back from the high pasture and would not say where he had picked up the company. None of them would name the change in old Margot, who came down in pa's company too, but who never grazed the lower terraces again.
+I came up that slope with my right hand on the stone. I did not come down with it.
 
-They had words for everything but the changes.
+This is mine: the third wall has never looked the same to me since. It is only stones, but when I pass it now I feel the line of it — the edge between *here* and what is not for us — the way I could not feel it before that night. I feel it at every door, every threshold. Every place where one thing ends and another begins.
+
+Before I ran, he saw me. His face changed: not the way a face changes on a stranger. The way it changes on someone who has found what they were looking for.
+
+I do not know what he found. But the looking left something in me that had not been there before.
+
+Or took something out that had.
