@@ -64,12 +64,34 @@ When we return to Vanaek, or when Vanaek is referenced in the main story, this w
 
 *Status: open. Revisit when we draft a scene set in Vanaek again, or when the protagonist passes through.*
 
+Answer: I think this one should have something to do with timeliness/scheduling. Time itself is too powerful for a god's domain, so I think a sense of time would be what makes sense here.
+
 ---
 
 ## 2026-05-05 — open — What is Sorin's full role and what do they do with what they know?
 
 Sorin is established as a god-attendant who knows more than they can say about their god's condition. The fragment's closing question is hanging: do they act? In what direction? Against the fiction the council is maintaining, or in support of it?
 
+Answer: I think they are not here to act currently, but they are here to record, and to spur further action. They may think in the scene about some of their past experiences -- maybe they are comparing the current moment to other disastrous god-decaying they've seen. Maybe people have been seriously harmed as a result.
+
 If Sorin recurs (and they might — their relationship with Relen as an information pressure valve is worth using), the answer to this question shapes how the scene works.
 
+Answer: I can see Relen's work as some of the initial catalyst of Sorin's trips. She may or may not knowingly be giving this information. Sorin and the like are likely increasingly using word of mouth and tavern experiences to know when they should make an observation.
+
 *Status: open. Deferred unless Sorin recurs.*
+
+---
+
+## 2026-05-09 — open — Does threshold-of-life sensitivity extend to decline as well as emergence?
+
+Fragment 3 (*The Count*) establishes that the witness-god in Solaven, in decline, still responded to a twelve-year-old girl when it failed to respond to forty adults. This connects to the threshold-of-life canon from the prologue (the very young and the very old are more sensitive to emergence than those in between). The question: is this the same mechanism, or a different one?
+
+Options:
+- **Same mechanism:** The god's residual presence, like the pre-emergence membrane, is perceptible only to those at life's edges. The god isn't choosing the girl; the girl is simply still able to feel what adults have learned not to feel.
+- **Different mechanism:** The god is choosing — something about the girl's openness, or her specific name (a grandmother's), or the quality of her attention draws the last of the presence toward her. This is more intentional and implies the god is still *there*, still selecting.
+- **Most interesting:** The girl receives because she doesn't yet know what she's supposed to feel. The ritual's form hasn't yet taught her what "nothing" feels like. Adults who have attended for years have learned to normalise the absence; she hasn't built that accommodation yet. This makes the god's response a function of the receiver's expectation rather than the god's remaining power — which is a darker and more interesting implication.
+
+Answer:
+I think I want this to call back to the original framing of the god's powers. The young and the elderly might be the ones most into the abstract and idealistic world, while adults may be too realistic. For gods whose powers are fraying, they might find adults the hardest to continue exerting intentional or unintentional power over.
+
+*Status: open. Worth surfacing at end of Phase 2 review.*

@@ -60,7 +60,7 @@ What to do at the third wall when the prints went over it — that I had not bee
 
 I crossed because the prints had crossed. Because I did not know how to go home without her, and crossing was the only thing I could think of. My feet had decided, or my feet had refused to wait. I did not know which. I had crossed.
 
-Above the third wall the slope went different. Less grass. More stone. A few bent pines, leaning the way trees lean when nothing has been there to argue with them. The prints went on. I followed them with my hand sometimes on the warm stone for balance, my eyes sometimes on the prints and sometimes on the place ahead of the prints, where the prints were going.
+Above the third wall the slope went different. Less grass. More stone. A few bent pines, leaning the way trees lean when nothing has been there to argue with them. The prints went on. I followed them with my right hand sometimes on the warm stone for balance, my eyes sometimes on the prints and sometimes on the place ahead of the prints, where the prints were going.
 
 Climbing the last of the way up to the top, my breath caught. Framed against the all-too-bright night sky, a brown shape. Bleating. At the sky.
 
@@ -110,6 +110,8 @@ Margot made a small sound, somewhere up the slope, and another, and put her head
 
 He did not move toward me. He did not move at all. His face changed, but only the way light changes on a hill when a cloud passes. Whatever he was seeing in me, I could not have said.
 
+I had come up the slope for Margot. I moved toward her. The rope was in my left hand.
+
 The running, after, I do not remember. The slope. The third wall. The terraces. None of it. Only — somewhere very low, when the village houses were close — that my face was wet, and I did not know when it had started, and that I had not brought Margot.
 
 Ma was in the lane, still calling my name. She stopped calling when she saw me. She went down on her knees on the packed dirt and held me, and held me, and asked where I had been, what had happened, where I had been. I could not answer. The goat. I had not brought the goat.
@@ -118,8 +120,14 @@ She held me longer than she had ever held me.
 
 The look on her face was not the look I knew for losing things.
 
-Later — much later — the village would have words for what happened on the slope. They would all have different words. None of them would be mine.
+Later, the village found words for what happened on the slope. None of them were mine.
 
-None of them would name what my ma had seen on me when I came home that night. None of them would name what walked beside pa four days later, when he came back from the high pasture and would not say where he had picked up the company. None of them would name the change in old Margot, who came down in pa's company too, but who never grazed the lower terraces again.
+I came up that slope with my right hand on the stone. I did not come down with it.
 
-They had words for everything but the changes.
+This is mine: the third wall has never looked the same to me since. It is only stones, but when I pass it now I feel the line of it — the edge between *here* and what is not for us — the way I could not feel it before that night. I feel it at every door, every threshold. Every place where one thing ends and another begins.
+
+Before I ran, he saw me. His face changed: not the way a face changes on a stranger. The way it changes on someone who has found what they were looking for.
+
+I do not know what he found. But the looking left something in me that had not been there before.
+
+Or took something out that had.

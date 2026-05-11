@@ -1,12 +1,15 @@
 ---
 title: The Vaelen at the Third Bell
-status: second draft
+status: third draft
 function: Fragment 2 — council-society scene; god offstage; establishes Vanaek
 fragment_number: 2
 pov: close third, adult, lay perspective (Relen)
-voice_register: economical, observational, short-to-medium sentences; no lyrical flourishes; social texture through dialogue subtext and accumulated mis-rhythms
+voice_register: economical, observational, short-to-medium sentences; social texture through dialogue subtext and accumulated mis-rhythms
 withholding: which god is affected; extent of the problem; what Sorin knows; what Relen will do
-revision_note: first draft turned on a late bell (too legible as a sign). Second draft replaces with diffuse social mis-rhythms downstream of an accord-domain god declining — felt as ambient wrongness before it can be named. Sorin's tell changes from prepared non-reaction to deliberate stillness in a restless room.
+revision_notes:
+  - v1: turned on a late bell (too legible as a sign)
+  - v2: replaced bell with diffuse social mis-rhythms; Sorin's tell becomes deliberate stillness
+  - v3: prose tightened throughout — awkward arrival sentence fixed; server-interruption rewritten as natural beats; weather filler cut; Sorin's pause rendered in image rather than analysis ("held the answer a beat before setting it down"); narrator commentary on Relen's interpretation removed; "that was the thing Relen kept coming back to" cut; Sorin's stillness paragraph tightened
 canon_committed_in_this_draft:
   - council-society settlements have domain-halls associated with each resident god
   - attendant changes are marked by bells at regular intervals throughout the day
@@ -19,8 +22,8 @@ canon_committed_in_this_draft:
   - Vanaek has multiple resident gods; one is under strain
   - the domain-hall shares a wall with at least one commercial establishment (the Vaelen)
 date_drafted: 2026-05-05
-date_revised: 2026-05-05
-word_count_approx: 1020
+date_revised: 2026-05-09
+word_count_approx: 960
 names_status: provisional — council-society framework applied
 ---
 
@@ -28,13 +31,13 @@ The Vaelen was warm on account of Davek having a good autumn, and Davek's good a
 
 She was on her third cup. The courier from the eastern road was late.
 
-Sorin came in half an hour past when Sorin came in. Relen watched them cross the room and pull out the chair across from her without asking. She pushed her cup aside to make room for their elbows.
+Half an hour past when Sorin usually came in, the door opened. They crossed to her table and pulled out the chair without asking; she pushed her cup aside to make room for their elbows.
 
 "Late," she said.
 
 "Domain records." Sorin sat. Their robe had a crease from sitting oddly, and the leather of their satchel was dark with rain — which meant they had been outside, not with the records.
 
-The server arrived to pour Sorin's cup in the middle of a sentence Relen had been building. She stopped, leaned back; the server poured; she reached for her cup and Sorin reached for theirs at the same moment and neither moved for a half-beat before Relen pulled back. Small. Not worth noting.
+The server came to pour Sorin's cup in the middle of a sentence Relen had been building. She stopped, lost the thread. When she reached for her cup Sorin was already reaching for theirs — the same moment, the same movement — and both of them held still a beat before Relen's hand came back.
 
 "The eastern road is slow," she said. "My courier may not come today."
 
@@ -44,27 +47,27 @@ The server arrived to pour Sorin's cup in the middle of a sentence Relen had bee
 
 "Maybe." The cup went down with the particular click of that corner table, the one leg being slightly short.
 
-They talked about the courier. They talked about the eastern road. Sorin asked about the grain shipment Relen had been managing since last month, and Relen said it had come in, but the handoff at the waystation had gone sideways — Imek wasn't there when he was supposed to be, and the man who covered for him didn't know the arrangement, and three days of messages had sorted out what should have taken an afternoon. Outside, rain; the copper eaves knocked the way they always did in weather.
+Sorin asked about the grain shipment Relen had been managing since last month. She said it had come in, but the handoff at the waystation had gone sideways — Imek wasn't there when he should have been, the man who covered didn't know the arrangement. Three days of messages to sort out what should have taken an afternoon.
 
 Sorin said that sounded familiar. Relen looked at them. They were looking at their cup.
 
-Across the room, two men were in the middle of a negotiation that had been going on since before Relen arrived. She had been half-listening without meaning to. They were talking about a warehouse lease; the terms were clear, both of them wanted the arrangement to close; she couldn't follow what was taking so long. One of them made a point, the other began to answer, and then both of them were talking, and then both of them stopped, and then both of them started again at exactly the same moment. Neither of them laughed. In any other version of this conversation, both of them would have laughed.
+Across the room, two men had been at a negotiation since before Relen arrived — she had been half-listening without meaning to. A warehouse lease; the terms clear, both of them wanting it closed. One made a point, the other began to answer, and then both of them were talking, and then neither, and then both again at exactly the same moment. Neither of them laughed. In any other version of this conversation, both of them would have laughed.
 
 "Has the Pavos matter settled?" Sorin asked.
 
 "The warehouse dispute? I don't think so." Relen watched them. "I heard they were close."
 
-"They've been close for six weeks." Sorin paused before saying it — not hesitance, but something more like measurement, finding exactly where the words fit. "These things usually resolve."
+Sorin held the answer a beat before setting it down. "They've been close for six weeks. These things usually resolve."
 
-"They do." The same way Sorin said things that were true but not quite complete.
+"They do." She reached for her cup. The two men across the room were still not closing.
 
 Davek dropped something behind the bar. He didn't curse, which he always cursed, and in the silence the two men at the table both looked up, and the thread of their conversation was gone again. One of them rubbed the back of his neck. The other turned his cup in his hands and seemed to lose what he'd been about to say.
 
 Sorin was still.
 
-That was the thing Relen kept coming back to. Everyone else in the Vaelen was doing something — small readjustments, the ordinary fidget of a room not quite at ease with itself, conversations that needed a beat more effort than they should have. The server had refilled the wrong cup twice. A woman by the window had told a story Relen had heard her tell before, and the ending had landed wrong, and she had told it again. The two men at the warehouse table were still not closing.
+Everyone else in the Vaelen was doing something — small readjustments, the ordinary fidget of a room not quite at ease with itself, conversations that needed a beat more effort than they should have. The server had refilled the wrong cup twice. A woman by the window had told a story Relen had heard her tell before, and the ending had landed wrong, and she had told it again. The two men at the warehouse table were still not closing.
 
-Sorin sat with both hands loose around their cup, and paused before every sentence to find where it fit, and did not let the room's rhythm carry them anywhere. It looked like patience. Relen thought it was something closer to the opposite — not waiting, but working. Doing manually what the room was forgetting how to do by itself.
+Sorin sat with both hands around their cup and did not let the room carry them — not once, not toward anything. It looked like patience. It wasn't. Doing manually what the room was forgetting how to do by itself.
 
 "Your courier may have stopped at the staging-house on the Kamovi road," Sorin said.
 
