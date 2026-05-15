@@ -4,6 +4,21 @@ Append-only log of canon and process decisions, with the reasoning behind each. 
 
 ---
 
+## 2026-05-14 — Relen's role: factor, not independent trader
+
+**Decision:** Relen is a factor who manages supply chains on behalf of merchants and institutions — not an independent trader operating on her own account. Her professional value is reliability: she makes arrangements hold. Her livelihood is therefore a direct casualty of the accord domain's failure, which attacks coordination infrastructure as its primary symptom. The grain handoff going sideways (Imek absent, the substitute not knowing the arrangement) is this pattern made personal, though she has not yet named the connection.
+**Reasoning:** Author direction 2026-05-14. Resolves the writing group's question about Relen's stakes: her fear is not existential or emotional but professional and material. The accord domain is failing the precise substrate her work depends on. This is visible in the existing fragment without requiring revision — the grain-handoff scene already carries this weight, now that the role is established.
+
+## 2026-05-14 — Eastern road geography: Vanaek to Solaven region
+
+**Decision:** Beket's eastern road connects Vanaek to the broader eastern network including Solaven's region. This is the same road Tavoen uses (or a road in the same network) when traveling to observe the witness ritual at the Tavorael. The commercial courier routes and the word-of-mouth channels readers of decline use to identify sites worth observing run along the same physical infrastructure. Beket has run this route for fifteen years and is known to Relen by reliability and track record.
+**Reasoning:** Author direction 2026-05-14. Makes the courier thread in Fragment 2 a structural connection rather than a decorative one. Relen and Tavoen do not know each other and need not meet; the connection is architectural — the roads that carry grain contracts and commercial messages also carry the signals (a story about a ritual not quite landing, a report of a warehouse deal that won't close) that orient readers of decline toward their next observation site.
+
+## 2026-05-14 — Courier thread as cross-fragment structural connection
+
+**Decision:** The courier/road network established in Fragment 2 (Vanaek, Relen/Beket, eastern road) is a recurring structural thread connecting council-society Vanaek with patron-model Solaven. The fragment does not need to dramatize this connection; it is available to the main narrative and to future dossier fragments to use. The thread reflects a broader principle: the informal information networks through which decline becomes legible (word of mouth, tavern encounters, traveler reports) run along commercial and courier routes. Readers of decline depend on the same infrastructure that ordinary commerce depends on.
+**Reasoning:** Author direction 2026-05-14. Emerged from resolving the writing group's question about the courier thread's function. Consistent with the QUESTIONS.md answer about how readers of decline identify observation sites.
+
 ## 2026-05-01 — Working title: *The Doors of Gods*
 **Decision:** *The Doors of Gods*.
 **Reasoning:** Resonates with the gateway mechanic. "Doors" reads slightly more grammatically and tonally interesting than "Gates"; the plural "Gods" foregrounds plurality (council societies, the variety of divine presences). Held provisionally per `PROJECT_PLAN.md` §7; revisit after Phase 2.

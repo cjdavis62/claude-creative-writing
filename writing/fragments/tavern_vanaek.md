@@ -1,6 +1,6 @@
 ---
 title: The Vaelen at the Third Bell
-status: third draft
+status: fourth draft
 function: Fragment 2 — council-society scene; god offstage; establishes Vanaek
 fragment_number: 2
 pov: close third, adult, lay perspective (Relen)
@@ -10,6 +10,7 @@ revision_notes:
   - v1: turned on a late bell (too legible as a sign)
   - v2: replaced bell with diffuse social mis-rhythms; Sorin's tell becomes deliberate stillness
   - v3: prose tightened throughout — awkward arrival sentence fixed; server-interruption rewritten as natural beats; weather filler cut; Sorin's pause rendered in image rather than analysis ("held the answer a beat before setting it down"); narrator commentary on Relen's interpretation removed; "that was the thing Relen kept coming back to" cut; Sorin's stillness paragraph tightened
+  - v4: writing group session (2026-05-14) — cut inventory paragraph (over-explanation after showing); cut "Doing manually what the room was forgetting how to do by itself" (gloss on a triplet that was already complete)
 canon_committed_in_this_draft:
   - council-society settlements have domain-halls associated with each resident god
   - attendant changes are marked by bells at regular intervals throughout the day
@@ -65,9 +66,7 @@ Davek dropped something behind the bar. He didn't curse, which he always cursed,
 
 Sorin was still.
 
-Everyone else in the Vaelen was doing something — small readjustments, the ordinary fidget of a room not quite at ease with itself, conversations that needed a beat more effort than they should have. The server had refilled the wrong cup twice. A woman by the window had told a story Relen had heard her tell before, and the ending had landed wrong, and she had told it again. The two men at the warehouse table were still not closing.
-
-Sorin sat with both hands around their cup and did not let the room carry them — not once, not toward anything. It looked like patience. It wasn't. Doing manually what the room was forgetting how to do by itself.
+Sorin sat with both hands around their cup and did not let the room carry them — not once, not toward anything. It looked like patience. It wasn't.
 
 "Your courier may have stopped at the staging-house on the Kamovi road," Sorin said.
 

@@ -23,6 +23,10 @@ One of Vanaek's council gods — the one whose domain is accord — is in early 
 
 Bells mark the changing of attendants at the domain-halls at regular intervals throughout the day. These bells are woven into the rhythm of daily life in Vanaek — merchants, tavern-keepers, and long-time residents have internalized the schedule without consciously tracking it. A late bell is noticed as a slight wrongness even by those who could not tell you what they were waiting for.
 
+## Road connections
+
+Vanaek is connected to the eastern settlements — including Solaven's region — via the eastern road. Beket has run this route for fifteen years and is the established courier for traders like Relen who rely on it for commercial correspondence. The eastern road is a commercial artery; it is also, incidentally, the route through which word-of-mouth about declining sites circulates. Travelers and couriers on this road carry reports of small wrongnesses (a ritual that didn't land, a deal that wouldn't close) that readers of decline use to orient themselves.
+
 ## Notable figures
 
 - **Sorin** — an attendant serving one of Vanaek's council gods. Long-time regular at the Vaelen. See `wiki/characters/sorin.md`.
