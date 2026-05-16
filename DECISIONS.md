@@ -4,6 +4,20 @@ Append-only log of canon and process decisions, with the reasoning behind each. 
 
 ---
 
+## 2026-05-16 — Conscious vs. subconscious divine power
+
+**Decision:** Gods have both conscious domain expression and subconscious/ambient domain effects that operate without the god's active awareness. These are distinct. A god consciously using its domain is a deliberate act — it knows what it is doing and why. An ambient domain effect is the passive consequence of a god's nature being present in a place: the world around the god conforms to the shape of its domain without the god directing it to do so. The god may not know this is happening. The preservation god in Fragment 5 held back the volcanic forces beneath the city as an ambient effect of its stasis domain — not a deliberate choice, not a known act, simply what happened in the vicinity of a god whose nature is the continuation of existing states. When the incoming god's presence awoke those forces, the preservation god had no prepared response because it had not known there was anything to respond to.
+
+**Implications:**
+- A declining god may be unknowingly failing to maintain things nobody has attributed to divine intervention. The failure becomes visible as a "natural" change — geological, ecological, social — that observers have no framework to connect to a god.
+- What mortals call stable geology, reliable weather, healthy ecosystems, or functioning communities may include subconscious divine maintenance that has become indistinguishable from nature because it has always been there.
+- This is a different kind of tragedy than visible decline: not what is lost consciously, but what silently fails. The god does not know it is failing to hold something. The mortals do not know there was ever a god holding it.
+- Future fragments and the main narrative should distinguish carefully between a god's deliberate domain use and its ambient effects. The two can be dramatically opposed: a god who cannot consciously use its domain at full strength may still be producing powerful ambient effects.
+
+**Reasoning:** Author direction 2026-05-16, arising from Fragment 5 (The City After). The key discovery of that fragment — that the stasis domain is still running even though the god is depleted — implies a domain that operates below the level of consciousness. The writing group session noted that this reframes divine decline: not gods becoming less, but the consequences of their ambient absence becoming newly legible. This decision formalizes that mechanic as a world-building principle.
+
+---
+
 ## 2026-05-14 — Relen's role: factor, not independent trader
 
 **Decision:** Relen is a factor who manages supply chains on behalf of merchants and institutions — not an independent trader operating on her own account. Her professional value is reliability: she makes arrangements hold. Her livelihood is therefore a direct casualty of the accord domain's failure, which attacks coordination infrastructure as its primary symptom. The grain handoff going sideways (Imek absent, the substitute not knowing the arrangement) is this pattern made personal, though she has not yet named the connection.
