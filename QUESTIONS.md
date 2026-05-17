@@ -53,45 +53,24 @@ The prologue avoids names entirely, which works for a deliberately-ambiguous pro
 
 ---
 
-## 2026-05-05 — open — Which god in Vanaek is declining, and what is their domain?
+## 2026-05-05 — answered 2026-05-16 — Which god in Vanaek is declining, and what is their domain?
 
 Fragment 2 (*The Vaelen at the Third Bell*) establishes that one of Vanaek's council gods is under strain — late bells, early rains that seem domain-related, an attendant (Sorin) who is managing information they cannot share. The fragment deliberately withholds the god's identity and domain.
 
-When we return to Vanaek, or when Vanaek is referenced in the main story, this will become relevant. Options to keep alive:
-- An agricultural or weather god (the rain and field subtext points here; fits the brainstorm's note that societies dependent on a god's boon lose the practical knowledge to function without it)
-- A god with a more abstract domain (knowledge, memory, craft) whose decline shows in subtler ways first
-- The most interesting choice may be one where the domain's failure is *legible* to the reader before anyone in the scene names it — we've already planted the weather/field hook
-
-*Status: open. Revisit when we draft a scene set in Vanaek again, or when the protagonist passes through.*
-
-Answer: I think this one should have something to do with timeliness/scheduling. Time itself is too powerful for a god's domain, so I think a sense of time would be what makes sense here.
+**Answer (2026-05-16):** The declining god's domain is temporal coordination — not time itself (too powerful for a single god's domain), but the felt sense that things happen when they should: that the bell rings at the right moment, that the meeting starts when it ought to, that the rhythms of daily communal life stay in phase. When this domain fails, things are late, out of step, slightly off-beat — a more specific and legible version of the accord domain's social mis-rhythms, explained now as one of its components. The late bells in Fragment 2 were already planting this without naming it. Logged in DECISIONS.md 2026-05-16.
 
 ---
 
-## 2026-05-05 — open — What is Sorin's full role and what do they do with what they know?
+## 2026-05-05 — answered 2026-05-16 — What is Sorin's full role and what do they do with what they know?
 
 Sorin is established as a god-attendant who knows more than they can say about their god's condition. The fragment's closing question is hanging: do they act? In what direction? Against the fiction the council is maintaining, or in support of it?
 
-Answer: I think they are not here to act currently, but they are here to record, and to spur further action. They may think in the scene about some of their past experiences -- maybe they are comparing the current moment to other disastrous god-decaying they've seen. Maybe people have been seriously harmed as a result.
-
-If Sorin recurs (and they might — their relationship with Relen as an information pressure valve is worth using), the answer to this question shapes how the scene works.
-
-Answer: I can see Relen's work as some of the initial catalyst of Sorin's trips. She may or may not knowingly be giving this information. Sorin and the like are likely increasingly using word of mouth and tavern experiences to know when they should make an observation.
-
-*Status: open. Deferred unless Sorin recurs.*
+**Answer (2026-05-16):** Sorin is here to record, not to act — at least not yet. Their role is closer to that of a reader of decline operating from inside the council structure: they document what they observe, compare the current decline to past disasters they have witnessed (implying they have seen this before, in other places), and carry the record for when action becomes possible or necessary. Relen's commercial reports — the grain handoffs gone sideways, the coordination failures — are among the signals that route Sorin's attention, possibly without Relen knowing she is functioning as an informant. Sorin and others like them increasingly use word-of-mouth and tavern encounters to identify sites worth observation; Relen is one of these unwitting sources. Logged in DECISIONS.md 2026-05-16. See also `wiki/characters/sorin.md` — to be updated when Sorin recurs.
 
 ---
 
-## 2026-05-09 — open — Does threshold-of-life sensitivity extend to decline as well as emergence?
+## 2026-05-09 — answered 2026-05-16 — Does threshold-of-life sensitivity extend to decline as well as emergence?
 
 Fragment 3 (*The Count*) establishes that the witness-god in Solaven, in decline, still responded to a twelve-year-old girl when it failed to respond to forty adults. This connects to the threshold-of-life canon from the prologue (the very young and the very old are more sensitive to emergence than those in between). The question: is this the same mechanism, or a different one?
 
-Options:
-- **Same mechanism:** The god's residual presence, like the pre-emergence membrane, is perceptible only to those at life's edges. The god isn't choosing the girl; the girl is simply still able to feel what adults have learned not to feel.
-- **Different mechanism:** The god is choosing — something about the girl's openness, or her specific name (a grandmother's), or the quality of her attention draws the last of the presence toward her. This is more intentional and implies the god is still *there*, still selecting.
-- **Most interesting:** The girl receives because she doesn't yet know what she's supposed to feel. The ritual's form hasn't yet taught her what "nothing" feels like. Adults who have attended for years have learned to normalise the absence; she hasn't built that accommodation yet. This makes the god's response a function of the receiver's expectation rather than the god's remaining power — which is a darker and more interesting implication.
-
-Answer:
-I think I want this to call back to the original framing of the god's powers. The young and the elderly might be the ones most into the abstract and idealistic world, while adults may be too realistic. For gods whose powers are fraying, they might find adults the hardest to continue exerting intentional or unintentional power over.
-
-*Status: open. Worth surfacing at end of Phase 2 review.*
+**Answer (2026-05-16):** The same underlying principle applies to both emergence and decline, but through a different mechanism. The young and the elderly are more open to the abstract and idealistic register of divine presence — less anchored in the practical and realistic framing that adult life enforces. A declining god's residual presence operates at a finer and more idealistic frequency; adults who have attended years of ritual have implicitly learned to calibrate against the practical, realistic world, making them harder for a fraying domain to reach. The young and old haven't built that accommodation — not because they are special, but because the world has not yet (or has no longer) trained them to discount what they feel. For gods whose powers are fraying, this means that adults are the hardest to continue exerting any influence over, intentional or not. Logged in DECISIONS.md 2026-05-16. See also `wiki/concepts/emergence.md` (threshold-of-life section) and `wiki/concepts/proximity_changes.md`.

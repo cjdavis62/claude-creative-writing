@@ -4,6 +4,30 @@ Append-only log of canon and process decisions, with the reasoning behind each. 
 
 ---
 
+## 2026-05-16 — Threshold-of-life sensitivity extends to decline as well as emergence
+
+**Decision:** The same underlying principle that makes the very young and very old more sensitive to divine emergence also applies to divine decline. A declining god's residual presence operates at a finer, more idealistic frequency than practical adult perception easily registers. The young and the elderly are more open to this register — not because they are specially gifted, but because adult life has not yet (or has no longer) trained them to discount what they feel in favor of the practical and realistic. Adults who have attended years of ritual have implicitly calibrated against the world-as-it-is; a fraying domain cannot easily reach through that accommodation. The young and old haven't built it. This is why the witness-god in Solaven responded to a twelve-year-old in Fragment 3 when it failed to respond to forty adults: not because it chose her, but because she was still receivable.
+
+**Reasoning:** Author direction 2026-05-16, confirmed at Phase 2 review. Closes QUESTIONS.md item 2026-05-09. Consistent with the brainstorm's threshold-of-life canon from the prologue; extends it from emergence sensitivity to decline sensitivity through the same underlying logic. The practical implication: in any scene involving a declining god's ritual or presence, children and the elderly are the diagnostic group — if anyone is still receiving something, it will be them.
+
+---
+
+## 2026-05-16 — Sorin's role: recorder, not actor; Relen as unwitting informant
+
+**Decision:** Sorin functions as an internal recorder rather than an actor — closer in role to a reader of decline operating from within the council structure than to a clergy member defending the council's fiction. They observe, document, and compare the current decline to past disasters they have witnessed elsewhere. They are not currently positioned to act; they are building a record for when action becomes possible or necessary. Relen's commercial reports — coordination failures, the grain handoffs, the deals that won't close — are among the signals routing Sorin's attention to Vanaek's decline as meaningful rather than routine. Relen is probably not aware she is functioning as an informant. Sorin and others like them increasingly use word-of-mouth, tavern encounters, and commercial news to identify decline sites worth closer observation; this is the informal network the readers of decline use, operating from inside institutional structures rather than outside them.
+
+**Reasoning:** Author direction 2026-05-16, confirmed at Phase 2 review. Closes QUESTIONS.md item 2026-05-05. Positions Sorin as an interesting character to return to: someone embedded in the priestly structure but functionally operating outside its incentives, using their access to gather the record the structure would suppress. The Relen/Sorin relationship gains texture: she thinks they're having a drink together; she is also, without knowing it, part of how he tracks the decline.
+
+---
+
+## 2026-05-16 — The declining god in Vanaek: domain of temporal coordination
+
+**Decision:** The declining god in Vanaek has a domain of **temporal coordination** — not time itself (too vast for a single god's domain), but the felt sense that things happen when they should: the bell rings at the right moment, the meeting convenes when it ought to, the rhythms of daily communal life stay in phase with each other. Its failure manifests as timing slippage throughout Vanaek's daily rhythms — late bells, meetings that drift, the sense that the city's pulse is losing its beat. This is the specific component of the accord domain that Fragment 2 was already rendering through the late bell and the mis-rhythms: temporal coordination was always the sub-domain making the scene legible as decline. The accord domain of Fragment 2's broader description now names one of its constituent elements more precisely.
+
+**Reasoning:** Author direction 2026-05-16, confirmed at Phase 2 review. Closes QUESTIONS.md item 2026-05-05. The late bells in Fragment 2 were already planting this without naming it — the fragment is now retroactively more precisely grounded. Future scenes in Vanaek or referencing Vanaek should treat timing failure as the domain-specific signature: things being late, out of phase, arriving at the wrong moment. The god's full identity and name remain withheld.
+
+---
+
 ## 2026-05-16 — Conscious vs. subconscious divine power
 
 **Decision:** Gods have both conscious domain expression and subconscious/ambient domain effects that operate without the god's active awareness. These are distinct. A god consciously using its domain is a deliberate act — it knows what it is doing and why. An ambient domain effect is the passive consequence of a god's nature being present in a place: the world around the god conforms to the shape of its domain without the god directing it to do so. The god may not know this is happening. The preservation god in Fragment 5 held back the volcanic forces beneath the city as an ambient effect of its stasis domain — not a deliberate choice, not a known act, simply what happened in the vicinity of a god whose nature is the continuation of existing states. When the incoming god's presence awoke those forces, the preservation god had no prepared response because it had not known there was anything to respond to.
