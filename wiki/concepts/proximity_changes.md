@@ -25,7 +25,7 @@ Permanent or long-lasting alterations to mortal bodies, senses, or cognition pro
 
 **The handedness flip:** The witness girl went up the slope right-handed and came down left-handed. A physical inversion produced by proximity to an emergence — consistent with the emergence's cosmological signature (the air folding, the light inverting, the world briefly turning inside out). The change is permanent. The witness does not name it; the prose plants it through action and names it plainly once in the ending without explanation.
 
-*Note: the brainstorm establishes that gateway-marked mortals are drained in a distinct way. The handedness flip is from emergence proximity, not gateway proximity — the mechanisms may be different. See `wiki/concepts/emergence.md`.*
+*Note: the brainstorm establishes that gateway-marked mortals are drained in a distinct way. The handedness flip is from emergence proximity, not gateway proximity — the mechanisms may be different. See [[emergence]].*
 
 ### Fragment 4 — the sound god's decline
 
@@ -45,7 +45,7 @@ The protagonist bears a **gateway-mark** from proximity to imitation gateways �
 
 ## The threshold-of-life principle and proximity
 
-The very young and very old are more sensitive to divine presence generally (see `wiki/concepts/emergence.md`). This applies to proximity changes: those at the thresholds of life may receive stronger marks from the same proximity, or marks in different registers, than those in the middle of life. Fragment 3 shows a related phenomenon: the declining witness god's residual presence still responds to a twelve-year-old when it fails to respond to forty adults — not because the girl is special, but because she has not yet built the adult accommodation to the domain's failing texture.
+The very young and very old are more sensitive to divine presence generally (see [[emergence]]). This applies to proximity changes: those at the thresholds of life may receive stronger marks from the same proximity, or marks in different registers, than those in the middle of life. Fragment 3 shows a related phenomenon: the declining witness god's residual presence still responds to a twelve-year-old when it fails to respond to forty adults — not because the girl is special, but because she has not yet built the adult accommodation to the domain's failing texture.
 
 ## Open questions
 

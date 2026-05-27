@@ -2,9 +2,13 @@
 
 *This is a living document. Add notes, fragments, questions, and half-ideas freely. Nothing here needs to be final.*
 
+> **Brainstorm status (last audited: 2026-05-17):** This document is the project's founding working document. Large portions have been resolved into canon (`wiki/` entries) or confirmed decisions (`DECISIONS.md`). Sections are tagged below as **RESOLVED**, **PARTIALLY RESOLVED**, or **WORKING MATERIAL**. *Resolved* means the canon version lives elsewhere and this section is historical context. *Partially resolved* means some items are in the wiki but others remain open. *Working material* means this section is still live, active material for authoring decisions.
+
 ---
 
 ## 🌍 World & Setting
+
+> **Status: PARTIALLY RESOLVED.** Core mechanics (gateway mechanic, two planes, gateway-mark effect on mortals) are in `wiki/concepts/`. Atmosphere and tone remain working material.
 
 ### The World at a Glance
 
@@ -24,6 +28,8 @@
     - Gods can be aged or ageless; the logic of this is not understood
     - Some lose more than others in the crossing — now understood to correlate with proximity to imitation gateways at the site of their emergence
 
+> **Status: RESOLVED.** See `wiki/concepts/gateway_mechanic.md` and `DECISIONS.md` (entries 2026-05-01 through 2026-05-10). The full mechanic, imitation gateways, mortal effects, and the irony at the center are all canon-committed there.
+
 ### The Gateway Mechanic *(Core World Rule)*
 
 - Gateways were originally one-directional: thinnings of the membrane for divine passage *into* the mortal world
@@ -38,6 +44,8 @@
   - They experience a subtle, chronic drain — a narrowing of perception, a loss of the capacity for idealism
   - This is not understood as a symptom; it is simply how those people *are*
 
+> **Status: PARTIALLY RESOLVED.** Named locations with wiki entries: protagonist's village (`wiki/locations/protagonist_village.md`), the wild margins (`wiki/locations/eastern_wild_margins.md`), Vanaek (`wiki/locations/vanaek.md`), Solaven (`wiki/locations/solaven.md`), The Frozen City (`wiki/locations/the_frozen_city.md`), The Sound Valley (`wiki/locations/the_sound_valley.md`). *The Tree*, *The Emergence Sites* (as a category), and *The Appointed Place* remain unnamed and undeveloped — working material.
+
 ### Key Locations
 
 | **Location** | **Description** | **Significance** |
@@ -48,6 +56,8 @@
 | The Wild Margins | Regions beyond settled civilization where "wild gods" have retreated | Decaying pockets of former divine power, now strange and dangerous |
 | *(To be named)* | A society built around multiple patron deities who collaborate | Demonstrates what the world at its best looked like — and how fragile that is |
 
+> **Status: WORKING MATERIAL.** These rules inform every scene but have not been exhaustively resolved into discrete wiki entries. The society models (patron, council, absent-god, rejection, wild margins) are in `wiki/societies/`; divine domain concepts are in `wiki/concepts/`.
+
 ### Rules of This World
 
 - Social structures orient around whichever deities have appeared nearby — even anti-deity societies are defined in opposition to them
@@ -57,6 +67,8 @@
   - Powers interact strangely in proximity to other gods — a source of both cooperation and unease
   - Powers are generally used for the benefit of others, but as gods decline, this norm breaks down
 - When a god dies, what happens is not fully known — this is a source of significant dread and speculation
+
+> **Status: WORKING MATERIAL.** Tone guidance for all agents. Not resolved into a discrete wiki entry; it informs `STYLE_AND_VOICE.md` and `PROJECT_PLAN.md` §3.8.
 
 ### Atmosphere & Tone
 
@@ -70,6 +82,8 @@
 ---
 
 ## 🎭 Characters
+
+> **Status: PARTIALLY RESOLVED.** The Protagonist and The Dying Deity have full wiki entries (`wiki/characters/the_protagonist.md`, `wiki/characters/the_dying_deity.md`). The Last God has a stub entry (`wiki/characters/`). Supporting characters (the maddened god, the gateway-builder, the anti-deity figure, the god who recognized the mechanism) remain the TBD table below — working material.
 
 ### The Mortal *(Protagonist — name TBD, she/her)*
 
@@ -110,6 +124,8 @@
 
 ## 🧵 Themes
 
+> **Status: WORKING MATERIAL.** These are the questions the story is asking, not settled facts. See `PROJECT_PLAN.md` §4.1 for the four load-bearing thematic questions that are author-decision-only. This section remains live throughout all phases.
+
 ### Central Theme
 
 - **Trust in the goodness of others — with incomplete information.** Paranoia and fear are rational responses to a collapsing world. But trust, even imperfect trust, even trust based on slightly wrong reasoning, is the only thing that threads the needle.
@@ -131,6 +147,8 @@
 ---
 
 ## 📖 Story Structure
+
+> **Status: WORKING MATERIAL.** Two-thread architecture, opening, core tension — all planned but not yet drafted. Phase 3 begins Scene 1 (the tree). This section is the spine the main narrative will be built on.
 
 ### Narrative Architecture
 
@@ -162,6 +180,8 @@ The dying deity investigates the cause of the divine decline. Each flashback is 
 
 ## 🎬 Scenes & Moments
 
+> **Status: WORKING MATERIAL — Phase 3+.** The five spine scenes are planned; none are drafted yet. Scene 1 (the tree) is the Phase 3 target. See `PROJECT_PLAN.md` §5 for phase order.
+
 ### Scene 1 — The Tree
 The opening. The dying deity and the mortal, at an unremarkable tree. The mortal's desire to kill is present and somehow not acted on. The quest is laid down not as a command but as a statement of fact: *you will be there. I know you will.* The mortal leaves. The compulsion is already inside them like a splinter.
 
@@ -181,6 +201,8 @@ The appointed place. The mortal arrives. The emergence is unlike any recorded �
 
 ## 🔮 Symbols, Motifs & Recurring Images
 
+> **Status: WORKING MATERIAL.** Craft-level guidance; not resolved into wiki entries. Use as reference when drafting scenes to check for motif consistency.
+
 - **Gateways — divine and imitation.** What looks like reverence becomes extraction.
 - **Blindness and sight.** Both POV characters perceive the world incompletely — but differently.
 - **The tree.** An unremarkable thing at the center of everything.
@@ -191,6 +213,8 @@ The appointed place. The mortal arrives. The emergence is unlike any recorded �
 ---
 
 ## ❓ Open Questions
+
+> **Status: PARTIALLY RESOLVED.** Several questions in this section have been closed in `DECISIONS.md` or `QUESTIONS.md`. Closed items: emergence is visibly a gateway (2026-05-01), prologue witness is not the protagonist (2026-05-01), gods have non-normative gender expression (2026-05-05), witness is physically altered by emergence (2026-05-10). Still open: protagonist's specific history with gods, the divine plane glimpsed through the tearing gate, the "something else" left behind, the appointed place, the last god's survival. Review `QUESTIONS.md` for the current open list before beginning Phase 3.
 
 - What is the protagonist's specific history with gods — what happened that made her want to kill the one at the tree?
 - What does the divine plane look like, glimpsed through the tearing gate?
@@ -206,6 +230,8 @@ The appointed place. The mortal arrives. The emergence is unlike any recorded �
 ---
 
 ## 🗒️ Scratchpad
+
+> **Status: WORKING MATERIAL.** Raw ideas, half-thoughts, and craft notes. Nothing here is committed. Mine freely; don't mistake this for canon.
 
 - The tragedy of the imitation gateways rhymes with other myths of unintentional destruction through love and devotion
 - The protagonist's compulsion to complete the quest despite herself needs a *feel*, not just a function. What does that compulsion feel like from inside her narration?

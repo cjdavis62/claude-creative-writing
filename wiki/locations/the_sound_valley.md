@@ -44,4 +44,4 @@ Unknown. The settlement presumably continues in some form, but it is no longer a
 ## Notable figures
 
 - **The woman born within sight of the domain-hall** (unnamed, Fragment 4 group) — the one most severely marked; the one who said she would go or she would go mad. Her fate is not established; she did not turn back.
-- **The POV character** (unnamed, Fragment 4) — the one who turned back from the wild god's territory. See `wiki/characters/the_one_who_turns_back.md` (stub — to be created).
+- **The POV character** (unnamed, Fragment 4) — the one who turned back from the wild god's territory. See [[the_one_who_turns_back]] (stub — to be created).

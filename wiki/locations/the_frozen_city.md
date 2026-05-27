@@ -41,4 +41,4 @@ In stasis. Depleted past waking. The domain runs without the god's direction. Wh
 
 ## Notable figures
 
-- **The historian** (unnamed POV, Fragment 5) — grew up in this city, was away for two years during the event, has returned specifically to study the frozen district. See `wiki/characters/the_historian.md` (stub — to be created).
+- **The historian** (unnamed POV, Fragment 5) — grew up in this city, was away for two years during the event, has returned specifically to study the frozen district. See [[the_historian]] (stub — to be created).

@@ -31,7 +31,7 @@ Council settlements mark the changing of god-attendants at regular intervals thr
 
 ## Vanaek
 
-The council settlement featured in Fragment 2. See `wiki/locations/vanaek.md`.
+The council settlement featured in Fragment 2. See [[vanaek]].
 
 ## Abstract domains
 

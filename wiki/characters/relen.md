@@ -33,7 +33,7 @@ Relen's livelihood is a direct casualty of the accord domain's failure: her work
 
 ## The courier thread
 
-Beket's eastern road connects Vanaek to the broader eastern network including Solaven's region. The commercial courier routes and the word-of-mouth channels that readers of decline use to identify sites worth observing run along the same physical roads. Relen and Tavoen (see `wiki/characters/tavoen.md`) do not know each other, but they are connected through the same infrastructure — the roads that carry grain contracts also carry the signals that bring readers to their observation posts.
+Beket's eastern road connects Vanaek to the broader eastern network including Solaven's region. The commercial courier routes and the word-of-mouth channels that readers of decline use to identify sites worth observing run along the same physical roads. Relen and Tavoen (see [[tavoen]]) do not know each other, but they are connected through the same infrastructure — the roads that carry grain contracts also carry the signals that bring readers to their observation posts.
 
 ## Notes
 

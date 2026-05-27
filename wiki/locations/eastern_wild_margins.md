@@ -32,7 +32,7 @@ The almost-mythic wild god's territory is phenomenologically distinct from ordin
 
 ## The Almost-Mythic Wild God
 
-See also `wiki/concepts/wild_gods.md` (to be created).
+See also [[wild_gods]] (to be created).
 
 The god in the eastern margins is classified as *almost-mythic* — it has been in the wild long enough that it has become difficult to distinguish from the landscape itself. It is not hostile. It does not perceive the group. It is simply old enough and large enough that sound goes toward it and does not return, that the land adjusts around its presence, that proximity to it suppresses proximity-marks from other gods.
 

@@ -49,7 +49,7 @@ The relationship is the novel's central asymmetry. He sees something in her that
 
 ## Home and origin
 
-The protagonist's home village: see `wiki/locations/protagonist_village.md`. An absent-god society — the god of the prologue was gone long before her time. The stratigraphic memory of the village (older walls, contested emergence stories, rituals that have become habit rather than transaction) is part of what shaped her relationship to the divine. For her, the gods' absence is simply how things are.
+The protagonist's home village: see [[protagonist_village]]. An absent-god society — the god of the prologue was gone long before her time. The stratigraphic memory of the village (older walls, contested emergence stories, rituals that have become habit rather than transaction) is part of what shaped her relationship to the divine. For her, the gods' absence is simply how things are.
 
 ## Open for author decision
 

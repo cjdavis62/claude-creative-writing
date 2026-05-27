@@ -7,7 +7,7 @@ first_appears: writing/fragments/reader_at_work.md
 
 # Solaven
 
-A patron-model settlement. Name derives from the patron-culture compound form: *sol-* (kept, held) + *-aven* (place of) — "the kept place." The name encodes the community's relationship to its god: a place where things are held, where the chain of continuity is maintained.
+A patron-model settlement organized around a single god whose domain is witness and continuity — the god receives what community members bring (names, losses, a year's work) and holds them beyond the reach of forgetting, permanently, in something that does not die. As of Fragment 3, the god is in advanced decline: 35 of 41 witness-ritual exchanges failed in the third year of Tavoen's observation, up from 4/67 in year one. Site of *The Count* (Fragment 3). Name: *sol-* (kept, held) + *-aven* (place of) — "the kept place."
 
 ## Physical character
 
@@ -19,7 +19,7 @@ A seasonal community ritual in which members come forward to the speaking-stone 
 
 ## Current status
 
-The witness-ritual's transaction is failing. A reader of decline (Tavoen) has tracked the count across three years, recording failed exchanges: 4 of 67 failed (year one); 13 of 53 failed (year two); 35 of 41 failed (year three). The pattern is a clear escalation — fewer people coming, and a dramatically rising proportion receiving nothing. However: in the third year, one participant (a girl of approximately twelve) received a full response from the god when nearly forty others did not. This suggests the decline is not yet uniform and that residual divine presence responds differently to those at the thresholds of life. See `wiki/concepts/emergence.md` for the threshold-of-life principle.
+The witness-ritual's transaction is failing. A reader of decline (Tavoen) has tracked the count across three years, recording failed exchanges: 4 of 67 failed (year one); 13 of 53 failed (year two); 35 of 41 failed (year three). The pattern is a clear escalation — fewer people coming, and a dramatically rising proportion receiving nothing. However: in the third year, one participant (a girl of approximately twelve) received a full response from the god when nearly forty others did not. This suggests the decline is not yet uniform and that residual divine presence responds differently to those at the thresholds of life. See [[emergence]] for the threshold-of-life principle.
 
 ## Road connections
 

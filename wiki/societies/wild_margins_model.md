@@ -39,7 +39,7 @@ Living near a wild god produces its own proximity effects. These are not the dom
 
 ## The Eastern Wild Margins
 
-The region featured in Fragment 4. See `wiki/locations/eastern_wild_margins.md`. The settlement the Fragment 4 group was rumored to be near — "a settlement that stood through three bad winters" — is a wild margins community that has achieved a stable coexistence with the almost-mythic god's ambient maintenance of its territory.
+The region featured in Fragment 4. See [[eastern_wild_margins]]. The settlement the Fragment 4 group was rumored to be near — "a settlement that stood through three bad winters" — is a wild margins community that has achieved a stable coexistence with the almost-mythic god's ambient maintenance of its territory.
 
 ## Notes for future scenes
 

@@ -33,7 +33,7 @@ The priestly class typically first responds with intensification — more freque
 
 ## Solaven
 
-The patron settlement featured in Fragment 3. See `wiki/locations/solaven.md`. The witness-god's domain in Solaven — the exchange of acknowledgment, the keeping of names — is an abstract domain: not elemental, not traditional. Its failure is legible only to those who know what functioning exchange feels like.
+The patron settlement featured in Fragment 3. See [[solaven]]. The witness-god's domain in Solaven — the exchange of acknowledgment, the keeping of names — is an abstract domain: not elemental, not traditional. Its failure is legible only to those who know what functioning exchange feels like.
 
 ## Notes for future scenes
 

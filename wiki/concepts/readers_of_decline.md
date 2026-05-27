@@ -37,7 +37,7 @@ The relationship between readers of decline and rejection-model communities is c
 
 ## Tavoen
 
-The reader of decline featured in Fragment 3. See `wiki/characters/tavoen.md`. An example of a reader operating in a patron-model society, nearly discovered, with the fanatical/obsessive register the brainstorm describes. Has developed a precise methodology (the count) and an emotional relationship to the work that is deeper than professionalism.
+The reader of decline featured in Fragment 3. See [[tavoen]]. An example of a reader operating in a patron-model society, nearly discovered, with the fanatical/obsessive register the brainstorm describes. Has developed a precise methodology (the count) and an emotional relationship to the work that is deeper than professionalism.
 
 ## The courier / road network
 

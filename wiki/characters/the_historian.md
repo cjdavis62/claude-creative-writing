@@ -20,7 +20,7 @@ The POV character of Fragment 5 (*The City After*). A researcher who studies div
 
 **Relationship to the city:** Personal. The field south of the road — its altered grade after the divine event — is something she would only have noticed if she grew up looking at it from cart windows, year by year. The frozen district's streets, the building with the window box, the corner with the short-legged table — these are places she knew. The scholarly frame is not detachment from the city; it is what makes return survivable.
 
-**What she discovers:** That the preservation god's stasis domain is still running two years after the god entered stasis. And the larger implication that follows: divine maintenance may be everywhere and invisible, and the god's ambient effects may have been holding back forces nobody knew were being held. See `wiki/concepts/divine_domains.md` and `wiki/locations/the_frozen_city.md`.
+**What she discovers:** That the preservation god's stasis domain is still running two years after the god entered stasis. And the larger implication that follows: divine maintenance may be everywhere and invisible, and the god's ambient effects may have been holding back forces nobody knew were being held. See [[divine_domains]] and [[the_frozen_city]].
 
 ## What is not established
 

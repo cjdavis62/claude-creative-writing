@@ -32,7 +32,7 @@ Absent-god communities face a specific version of the larger crisis: they have a
 
 ## The protagonist's home village
 
-Established as absent-god-model by the story's present day (DECISIONS.md 2026-05-01). The god whose emergence is depicted in the prologue — whose arrival was witnessed by a child, mythologized via the moment pa brought the god down the slope — is understood to be part of the village's history rather than its present. Whether the god died, departed, or declined out of presence is not yet settled. See `wiki/locations/protagonist_village.md`.
+Established as absent-god-model by the story's present day (DECISIONS.md 2026-05-01). The god whose emergence is depicted in the prologue — whose arrival was witnessed by a child, mythologized via the moment pa brought the god down the slope — is understood to be part of the village's history rather than its present. Whether the god died, departed, or declined out of presence is not yet settled. See [[protagonist_village]].
 
 ## Notes for future scenes
 

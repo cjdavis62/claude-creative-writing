@@ -3,9 +3,13 @@
 
 > *A companion document to the main story outline. Everything here is exploratory — contradictions are welcome, nothing is final.*
 
+> **Brainstorm status (last audited: 2026-05-17):** This document is the companion deep-dive on world mechanics and cultural dynamics. Most foundational content has been resolved into `wiki/` entries or `DECISIONS.md`. Sections are tagged below as **RESOLVED**, **LARGELY RESOLVED**, **PARTIALLY RESOLVED**, or **WORKING MATERIAL**. Check those wiki entries for the authoritative canon; treat this document as historical working material and a source of ideas not yet incorporated.
+
 ---
 
 ## I. The Emergence Event
+
+> **Status: LARGELY RESOLVED.** The emergence mechanic, physical signature, pre-emergence effects (animals, celestial signs, thresholds-of-life sensitivity), and the visible gateway/door are all canon-committed in `wiki/concepts/emergence.md` and `DECISIONS.md` (multiple entries 2026-05-01). The dying deity's wrongness-of-direction (decay-as-directional-pull) is in `wiki/characters/the_dying_deity.md`. The witness/authority dynamic is in `wiki/characters/the_witness_girl.md`. *Still working material:* the cultural apparatus around naming events; the full texture of what witnesses experience.
 
 ### The Flashpoint
 
@@ -46,6 +50,8 @@ What is inconsistently lost:
 ---
 
 ## II. The Arc of a God's Power
+
+> **Status: PARTIALLY RESOLVED.** The historical divergence (early gods arriving more complete), the rate of emergence declining, and the concept of conscious vs. ambient domain effects are in `wiki/concepts/decline.md` and `DECISIONS.md` (2026-05-16 — conscious vs. subconscious divine power). *Still working material:* the blooming period and its cultural apparatus (sign-watchers, naming event, false bloomings), domainless gods and their eventual exile, the plateau/long-presence dynamics.
 
 ### Early Gods vs. Modern Gods — The Historical Divergence
 
@@ -113,6 +119,8 @@ Gods vary enormously in how they relate to their followers during this period. S
 
 ## III. The Decline and Its Cultural Effects
 
+> **Status: LARGELY RESOLVED.** The texture of decline from the outside and inside, the social fracture dynamics (authority crisis, competing interpretations, anti-deity movements, migration), and the maddened gods are in `wiki/concepts/decline.md` and `wiki/societies/`. The readers of decline section (§V) has its own wiki entry. *Partial conflict check:* the "maddened god" framing in this section should be read alongside `PROJECT_PLAN.md` §4.2 which flags the "madness" framing as requiring care — the wiki entry uses more precise language.
+
 ### What Decline Looks Like From the Outside
 
 A god's decline is not announced. It is noticed, gradually, in the texture of things. The boon begins to waver — the fertile land yields a little less, the philosophical tradition loses some of its generative quality, the healing presence is less reliably felt. People notice but do not at first name what they are noticing.
@@ -145,6 +153,8 @@ As decline spreads, the social structures built around gods begin to crack in sp
 
 ## IV. The Varieties of God–Society Relationship
 
+> **Status: RESOLVED.** All four society models (patron, council, absent-god, rejection) plus the wild margins model are in `wiki/societies/`. Specific implementations for the fragment dossier societies are in `DECISIONS.md` (2026-05-05 onwards). Use the wiki entries as canon; this section is historical context.
+
 *A rough taxonomy — these are not fixed types but tendencies that can overlap and evolve.*
 
 ### The Patron Model
@@ -164,6 +174,8 @@ Societies that have actively organized against the gods — either their own for
 ---
 
 ## V. Signs, Portents, and the Interpretive Tradition
+
+> **Status: PARTIALLY RESOLVED.** The readers of decline — their methodology, social position, how they find each other, how they're treated — are in `wiki/concepts/readers_of_decline.md`, developed further through Fragments 2 and 3. *Still working material:* the general sign-reading tradition (sign-watchers, naming events, false bloomings), the competitive/political dimension of sign interpretation, the mechanics of interpretive authority disputes. These will matter when the main narrative involves priestly classes or established theological institutions.
 
 ### Reading the Signs
 
@@ -206,6 +218,8 @@ Different societies have settled into different uneasy accommodations:
 
 ## VI. Divine Diplomacy and Inter-God Relations
 
+> **Status: WORKING MATERIAL.** No wiki entry yet. Fragment 5 (*The City After*) touches on a catastrophic divine encounter (preservation god + incoming god in the same city), which is the closest any fragment has come to dramatizing this section. The scratchpad note about the protagonist passing through a diplomatically scarred city is still live. This section becomes load-bearing in Phases 3–5 when the protagonist begins moving through the world. Build a `wiki/concepts/divine_diplomacy.md` entry before drafting any scene involving inter-god contact or its aftermath.
+
 ### Gods as Heads of State
 
 The more prominent and long-established gods function in some respects like sovereigns — not just of their followers, but in relation to each other. There are traditions of gods visiting one another, of delegations traveling between societies, of formal acknowledgment of each other's domains and territories. These encounters carry enormous political weight for the mortal societies involved: when a god visits another's territory, the mortals around them are acutely aware that what is happening between the gods will shape their own world.
@@ -238,6 +252,8 @@ Delegations have become rarer. Some gods have stopped traveling entirely. Others
 
 ## VII. The Wild Gods
 
+> **Status: LARGELY RESOLVED.** The spectrum of wild gods (almost-mythic, recently-exiled-from-decline, simply-surviving), the stigma of returned gods, and the failed-patron dynamic are all in `wiki/concepts/wild_gods.md`, developed further through Fragment 4 (*The Wild God*). *Still working material:* the domainless-god-who-awakens-under-duress (a possible figure the protagonist encounters) and the mechanics of brokered return.
+
 ### What the Margins Produce
 
 The wild gods — those who have retreated from or been expelled from mortal society — exist across a vast spectrum. Age is the most significant variable, but it does not correlate simply with coherence or danger.
@@ -262,6 +278,8 @@ More often, return is brokered — by another god, by a mortal intermediary, by 
 
 ## ❓ Open Questions for This Document
 
+> **Status: PARTIALLY RESOLVED.** Closed: the domain crystallization question is in DECISIONS.md; follower-belief causation is held intentionally ambiguous (working material). *Still open:* the most catastrophic divine diplomatic incident in living memory (→ should be a wiki/locations entry when answered), the oldest coherent wild god and what they know, the dying deity's encounter with contradictory god-authored accounts, the single reader of decline tracking the full scope. Review `QUESTIONS.md` for the full current list.
+
 - What does a god's domain actually consist of — is it something they carry from the divine plane, or something that crystallizes through interaction with the mortal world? *(Held for later)*
 - Is follower belief mechanically connected to a god's power — or correlation without causation? The evidence suggests mutualism but causation is unclear. *(Held — intentionally ambiguous)*
 - What is the most catastrophic divine diplomatic incident in living or near-living memory — and is it somewhere the protagonist passes through?
@@ -272,6 +290,8 @@ More often, return is brokered — by another god, by a mortal intermediary, by 
 ---
 
 ## 🗒️ Scratchpad
+
+> **Status: WORKING MATERIAL.** Raw ideas and craft notes. Nothing here is committed. Several notes here are live for Phase 3+ planning (naming event as scene, council-model society on the protagonist's journey, domainless-god-who-awakens, the corrupted historical archive in the dying deity's flashbacks, the protagonist passing through a diplomatically scarred landscape, the once-per-decade rate and the twenty-year silence).
 
 - The gap between early gods and modern gods is the physical record of the damage — worth thinking about how this shows up architecturally and ritually at the oldest emergence sites vs. newer ones
 - The naming event as a cultural ceremony is worth developing further — it's a moment of collective interpretation that could be shown directly in a scene

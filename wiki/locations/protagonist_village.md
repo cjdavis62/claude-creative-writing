@@ -8,7 +8,7 @@ first_appearance: writing/fragments/prologue_emergence.md
 
 # The Protagonist's Village
 
-The home village of the protagonist (the Mortal). In the prologue, it is shown at evening on the day a god emerges on the slope above it — generations before the main story's present.
+The home village of the protagonist (the Mortal) and the site of the prologue. In the prologue, it is shown at evening on the day a god emerges on the slope above it — generations before the main story's present. By the main story's present day, the village is an absent-god society: the god of the prologue emergence is long gone, and the community has reorganized around that absence.
 
 ## Established texture (from `writing/fragments/prologue_emergence.md`)
 

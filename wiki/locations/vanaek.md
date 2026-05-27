@@ -7,7 +7,7 @@ first_appears: writing/fragments/tavern_vanaek.md
 
 # Vanaek
 
-A council-society settlement. Name derives from the council-culture compound form: *van-* (crossing, threshold) + *-aek* (gathered place, center) — "place of the crossing." The name reflects Vanaek's founding logic: a site where multiple gods' domains converge, and where the social and theological work of managing that convergence takes place.
+A council-society settlement where multiple gods with related or complementary domains are collectively resident — rarer than the patron model, more resilient under normal conditions, and currently under strain as one of its resident gods (domain: the invisible coordination substrate of community life) enters early decline. The decline shows in social texture before anyone can name it: conversations miss beats, small arrangements fail, the city's ordinary rhythm quietly loses its footing. Site of *The Vaelen at the Third Bell* (Fragment 2). Name: *van-* (crossing, threshold) + *-aek* (gathered place) — "place of the crossing."
 
 ## Physical character
 
@@ -29,6 +29,6 @@ Vanaek is connected to the eastern settlements — including Solaven's region �
 
 ## Notable figures
 
-- **Sorin** — an attendant serving one of Vanaek's council gods. Long-time regular at the Vaelen. See `wiki/characters/sorin.md`.
+- **Sorin** — an attendant serving one of Vanaek's council gods. Long-time regular at the Vaelen. See [[sorin]].
 - **Davek** — proprietor of the Vaelen. Long-running establishment.
-- **Relen** — a lay trader, regular at the Vaelen. See `wiki/characters/relen.md`.
+- **Relen** — a lay trader, regular at the Vaelen. See [[relen]].
