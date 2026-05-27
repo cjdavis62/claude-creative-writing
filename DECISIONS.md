@@ -4,6 +4,28 @@ Append-only log of canon and process decisions, with the reasoning behind each. 
 
 ---
 
+## 2026-05-27 — The protagonist's backstory wound: the twin and the village god
+
+**Decision:** The protagonist's specific backstory wound involves a twin whose bond with the protagonist was cosmologically deepened by the ambient domain of a village patron god — a different god from the dying deity of the main story. The village god had a domain involving the coherence of bonds between people (precise formulation TBD). Its ambient presence deepened the twin bond into something the world recognized: each twin perceived more fully through the other's existence. The gift was real.
+
+The village god declined. As its domain failed, the deepened bond became unstable. The break was asymmetric. The specific nature of the wound: the protagonist is now dead to the twin — the twin can no longer experience the protagonist as real. Not through will or rejection, but through the mechanism of the bond's dissolution. The twin is alive, is kind, completes their shared phrases from muscle memory. There is no felt response. The protagonist is the ghost. She mourns for both of them because the twin cannot mourn.
+
+She still visits. The worst visit — the time she thought it was working — exists in her body. She does not return to it directly.
+
+**Reasoning:** Author decision, worldbuilding session 2026-05-27. Selected from among several candidate wounds and fate options. This wound was chosen because: (1) it is grounded in the world's specific mechanics (ambient domain, decline, bond as cosmologically real); (2) it produces a worldview earned through loss rather than ideology; (3) the "present but not landing" grief maps to universally recognizable human experiences (unreachable loved ones, asymmetric loss) without requiring readers to share the fantastical specifics; (4) the wound's structure — gift real, taking ongoing and invisible until catastrophic — rhymes precisely with the story's central irony about the imitation gateways. The village god is explicitly a different god from the dying deity; her hatred at the tree is not personal to him but aimed at the apparatus he represents.
+
+---
+
+## 2026-05-27 — The protagonist's worldview: gods as takers; her as microcosm of world's disillusionment
+
+**Decision:** The protagonist's defining worldview is not that gods never gave — she knows the gift was real — but that the giving doesn't balance the taking, and most people can't see the ledger until it's too late. She arrived at this through personal loss rather than ideology. This positions her as a microcosm of what the world is now experiencing at civilizational scale: the same structure (gift real, devotion continuing, taking ongoing after the giving has withdrawn) playing out in her personal history before it played out everywhere.
+
+Her relationship to the world's other responses to decline is as follows: she recognizes people in intensified piety as paying a cost she knows; she finds the anti-deity movements recognizable but wrong in their dismissal of the gift's reality; she is closest in position to the readers of decline; she recognizes the flatness of communities that have survived a maddened god's aftermath.
+
+**Reasoning:** Author direction, worldbuilding session 2026-05-27. The twin wound alone makes her sympathetic; this layer makes her structurally significant to the novel's argument. Her position — unable to dismiss the gift, unable to forgive the taking — is the story's most honest accounting of what the decline actually costs. It also sets up the anti-deity movements as a distorted mirror: they've arrived at a similar conclusion through reasoning rather than loss and have made it manageable in ways she hasn't, which she finds less impressive than straightforward opposition.
+
+---
+
 ## 2026-05-16 — Threshold-of-life sensitivity extends to decline as well as emergence
 
 **Decision:** The same underlying principle that makes the very young and very old more sensitive to divine emergence also applies to divine decline. A declining god's residual presence operates at a finer, more idealistic frequency than practical adult perception easily registers. The young and the elderly are more open to this register — not because they are specially gifted, but because adult life has not yet (or has no longer) trained them to discount what they feel in favor of the practical and realistic. Adults who have attended years of ritual have implicitly calibrated against the world-as-it-is; a fraying domain cannot easily reach through that accommodation. The young and old haven't built it. This is why the witness-god in Solaven responded to a twelve-year-old in Fragment 3 when it failed to respond to forty adults: not because it chose her, but because she was still receivable.
