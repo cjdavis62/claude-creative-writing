@@ -1,6 +1,6 @@
 # Project Status — *The Doors of Gods*
 
-*One-screen orientation for a new reader or a fresh agent session. Last updated: 2026-05-17.*
+*One-screen orientation for a new reader or a fresh agent session. Last updated: 2026-05-27.*
 
 ---
 
@@ -46,12 +46,15 @@
 
 Draft Scene 1 (the tree) at the highest quality the pipeline can produce — the moment the dying deity meets the protagonist. Then draft the deity's POV version. The gap between the two, deliberately rendered, is the project's first major artistic statement.
 
-Before drafting: author sign-off on the protagonist's specific backstory wound (see `PROJECT_PLAN.md` §4.2) and the opening's emotional register.
+**Phase 3 prerequisites — status:**
+- ✓ Protagonist's backstory wound settled (2026-05-27) — see `wiki/characters/the_protagonist.md` and `DECISIONS.md` entries 2026-05-27
+- ✓ Opening's emotional register settled (2026-05-27) — see `DECISIONS.md` entry 2026-05-27. Scene drafted twice: protagonist POV (anger → dissipation) and deity POV (grief → hope). Both versions target same moment; the gap between them is the theme.
+- ✗ `wiki/concepts/divine_diplomacy.md` — flagged in brainstorm as needed before any scene involving inter-god contact or its aftermath; not yet created (not required for the tree scene itself)
 
 **Outstanding housekeeping:**
 - Several wiki entries have uncommitted local changes — commit or review before Phase 3
 - `QUESTIONS.md` should be reviewed at the Phase 2/3 boundary for any unresolved items that bear on the opening scene
-- No timeline (`wiki/timeline/`) existed before this session — entries are now in place but should be expanded as Phase 3 introduces more precise temporal relationships
+- Timeline entries (`wiki/timeline/`) are in place but should be expanded as Phase 3 introduces more precise temporal relationships
 
 ---
 
@@ -63,7 +66,7 @@ Two planes, mortal and divine. Gods cross into the mortal world through visible 
 
 ## Characters at a glance
 
-- **The Protagonist** — main POV, she/her, gateway-marked, unillusioned, name TBD
+- **The Protagonist** — main POV, she/her, gateway-marked, unillusioned, name TBD. Backstory wound established: twin bond cosmologically deepened by a village patron god (different from the dying deity), destroyed asymmetrically by that god's decline — she is now dead to her twin. Worldview: gods as takers; microcosm of the world's disillusionment. See `wiki/characters/the_protagonist.md`.
 - **The Dying Deity** — secondary POV, he/him, flashback chapters, name TBD
 - **The Witness Girl** — narrator of the prologue, older woman in main story, unnamed
 - **Relen** — factor in Vanaek (Fragment 2), pragmatic, commercial POV

@@ -4,6 +4,28 @@ Append-only log of canon and process decisions, with the reasoning behind each. 
 
 ---
 
+## 2026-05-27 — Phase 3 emotional register: the tree scene, both POVs
+
+**Decision:** Scene 1 (the tree) is to be drafted twice — once from the protagonist's POV, once from the dying deity's POV. The two versions cover the same moment in time and will be "almost irreconcilable" in register; the gap between them is where the theme lives.
+
+**Protagonist's POV — emotional arc: PEAK → DISSIPATION**
+An anger piece. Her rage and frustration are at their peak — she finally has an outlet, a specific target, a place to put the thing she's been carrying. The dissipation happens in three beats, each enabling the next:
+
+1. *The dying gives her pause.* She cannot kill something already dying without it becoming something other than what she intended. The act is simply unavailable. The pause creates the opening.
+2. *The god speaks into the pause, and the speech pierces.* He addresses her specifically, not generically. What he says speaks to the actual wound — he sees her, names something true about her, and frames the mission in terms that resonate with her specific grief: the cause of the gods' decline is real, it has a mechanism, and addressing it requires someone with her particular perception. For a woman whose entire worldview is organized around gods as takers and the costs of the decline, this is the first time anyone has named the actual target. The fury doesn't dissolve — it redirects.
+3. *She feels seen.* He witnesses her as real in a way her twin can no longer do. She hates that it works.
+
+The compulsion — the quest as splinter — enters through the opening the dissipation creates. She leaves still carrying her rage, redirected. She does not agree. She does not have to.
+
+**Dying deity's POV — emotional arc: TROUGH → RISE**
+A grief piece that opens into hope. He is at his lowest — dying, his investigation almost finished but not quite, his conclusion confident and quietly wrong, the world's beauty slipping from him. Grief comes first and needs texture: the specific losses, the specific beauty, the specific failure of not having found anyone to carry the work forward. Then she arrives. He sees her mark. The grief opens — not into joy, not into triumph, but into something like *relief*: the work has found a vessel. The hope is entirely outward-directed, toward the mission and its continuation. Not for him. That distinction is load-bearing.
+
+**The irony that makes the scene hurt:** He gives her the truest mission she's ever been given — naming the mechanism, seeing her clearly, trusting her — sourced from an investigation whose conclusion is wrong in direction. He believes the gateways are decaying because the gods are declining; she is living proof it runs the other way. His speech is almost right. His trust is his most correct act. The gap between the two is what the novel is.
+
+**Reasoning:** Author direction 2026-05-27. The dual emotional arc (her peaking and falling, him in trough and rising) was chosen for its structural symmetry: the two characters meet moving in opposite directions, and the thing that passes between them — the quest, the witnessing, the mark — is experienced entirely differently by each. This asymmetry is the tree scene's first enactment of the novel's central dual-POV argument.
+
+---
+
 ## 2026-05-27 — The protagonist's backstory wound: the twin and the village god
 
 **Decision:** The protagonist's specific backstory wound involves a twin whose bond with the protagonist was cosmologically deepened by the ambient domain of a village patron god — a different god from the dying deity of the main story. The village god had a domain involving the coherence of bonds between people (precise formulation TBD). Its ambient presence deepened the twin bond into something the world recognized: each twin perceived more fully through the other's existence. The gift was real.
