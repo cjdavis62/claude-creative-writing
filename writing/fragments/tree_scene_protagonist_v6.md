@@ -17,23 +17,23 @@ changes_from_v5:
   - "naming a wound was not understanding a life" → "a dying god's need was not her obligation" — the argument has actual anger in it now
 ---
 
-The tree was the kind of tree that outlived its purpose. Bent at the hip by years of ridge-wind, the lower trunk worn pale where sheep had rubbed against it long enough to leave a mark. She had walked half a day past the last marking-stone to find it.
+The tree was the kind of tree that outlived its purpose #Do not use this "the blank was the blank" language, it is not engaging#. Bent at the hip by years of ridge-wind, the lower trunk worn pale where sheep had rubbed against it long enough to leave a mark. She had walked half a day past the last marking-stone to find it.
 
 She had come prepared.
 
-The sword was where she needed it. The eleven days of this road had burned her down to the essential — the fat and the uncertainty gone, only the direction left. She had stopped arguing with herself somewhere around the fifth day. After the fifth day it had become simply: a road, and a thing at the end of it. The goal was older than the road. She had stopped naming it somewhere around the third year and just carried it. By now it wasn't anger anymore. It was direction.
+The sword was where she needed it #this sentence#. The eleven days of this road had burned her down to the essential — the fat and the uncertainty gone, only the direction left #this clip#. She had stopped arguing with herself somewhere around the fifth day #why is she arguing with herself?#. After the fifth day it had become simply: a road, and a thing at the end of it #How does she know that the god is waiting for her?#. The goal was older than the road. She had stopped naming it somewhere around the third year and just carried it. By now it wasn't anger anymore. It was direction.
 
-The figure under the tree was close enough. She had used the opening she was already considering on gods who'd had no warning — the quick close, the sword already committed before they understood what was happening. Most of them had been standing. Most of them had been surprised. She had counted on both.
+The figure under the tree was close enough. She had used the opening she was already considering on gods who'd had no warning — the quick close, the sword already committed before they understood what was happening. Most of them had been standing. #Feels clunky# Most of them had been surprised. She had counted on both.
 
 He was sitting.
 
-She stopped four paces out, her hand already at her sword, and then her hand stopped. Sitting was wrong. She had come prepared to spend everything she'd been carrying on something that could take it — something upright, something that would resist, something she could hold accountable. She had gods to answer for, and this was supposed to be the one. What she found instead was the slump of him against the roots. His hands lay open in the dirt. She could hear his breathing from here: thin and deliberate, the breathing of something that had already conceded most of its functions and was defending only the last few.
+She stopped four paces out, her hand already at her sword, and then her hand stopped. Sitting was wrong. She had come prepared to spend everything she'd been carrying on something that could take it — something upright, something that would resist, something she could hold accountable. She had gods to answer for #huh? This is confusing#, and this was supposed to be the one. What she found instead was the slump of him against the roots. His hands lay open in the dirt. She could hear his breathing from here: thin and deliberate, the breathing of something that had already conceded most of its functions and was defending only the last few.
 
 That was not what she had come for.
 
 He raised his head.
 
-She had killed gods before. She knew what they looked like when they were still what they were supposed to be — the cold that moved through you when they turned their attention toward something, the way your hands went to weapons before your mind did. None of that happened now. His face had learned to carry pain without advertising it. Long-practiced. His eyes found her.
+She had killed gods before. She knew what they looked like when they were still what they were supposed to be #The "they looked like when they" feels so weird and clunky# — the cold that moved through you when they turned their attention toward something, the way your hands went to weapons before your mind did #Why is this part of the god description?#. None of that happened now. His face had learned to carry pain without advertising it. Long-practiced. His eyes found her.
 
 She'd felt divine presence before — known the quality of it, the weight it put in a room. What she felt now was a resonance at the back of her teeth, in the small bones of her jaw. A remnant.
 
@@ -45,7 +45,7 @@ She closed her fists around nothing. The nails went in.
 
 "No."
 
-He let it sit. The weight was in the pause — the quality of something long confirmed and no longer in need of defending. Then, after a moment: "I've been here three days. Waiting."
+He let it sit. The weight was in the pause — the quality of something long confirmed and no longer in need of defending #Why did we change tone from the narrator? This should be from *her* POV#. Then, after a moment: "I've been here three days. Waiting."
 
 "You don't know me."
 
@@ -53,7 +53,7 @@ He let it sit. The weight was in the pause — the quality of something long con
 
 "No."
 
-He spoke then, low, barely carrying the distance. She caught it in her jaw before she caught it in her ears. She took a step forward without deciding to.
+He spoke then, low, barely carrying the distance. She caught it in her jaw #That makes it seem like the voice is booming? It isn't though, the voice should be barely over a whisper# before she caught it in her ears. She took a step forward without deciding to. #Rewrite this#
 
 "I know what was done to your sight."
 
@@ -71,7 +71,7 @@ Something sharp was in her mouth. What came out was: "I know what devotion costs
 
 It came out wrong. Her twin surfaced in her mind without permission — the door, the face behind it, the eyes that no longer registered her as real. She pressed her nails deeper.
 
-"Yes." He watched her steadily, the pain managed behind it. "You know it the way the body knows. Not theory. Not distance." He breathed — she heard the cost of it. "The imitation gateways are failing now. As the gods go, the structures are breaking. There is one more crossing left. I need someone to be there when it happens."
+"Yes." He watched her steadily, the pain managed behind it. "You know it the way the body knows #Again, not a fan of this kind of prose or writing. It feels sloppy#. Not theory. Not distance." He breathed — she heard the cost of it. "The imitation gateways are failing now #This is wrong for how the world works, the imitation gateways are not failing#. As the gods go, the structures are breaking. There is one more crossing left. I need someone to be there when it happens."
 
 "Why me?"
 
@@ -81,13 +81,14 @@ He began to speak.
 
 "The place," she said.
 
+-- this is not what I want in this scene. Rebuild this from scratch, I do not want the protagonist to be told where or when#
 He stopped. He looked at her for a moment with something in his face that was not disappointment and not surprise. Then he gave her the place: not as a road-point or a name but as a convergence — a quality of threshold and approach, a thing she would recognize when she was standing in it. She understood it. She held it.
 
 "When," she said.
 
 He told her that too.
 
-She knew what stage this was in.
+She knew what stage this was in. #huh?#
 
 "You won't know if I go."
 
@@ -107,7 +108,7 @@ She turned and walked back across the field.
 
 She was perhaps a third of the way across when the breathing stopped.
 
-She had been tracking it without knowing she was tracking it — the thin, deliberate sound of it, each breath carefully spent. Now there was nothing. The air behind her was different. Quieter in a way that had nothing to do with sound.
+She had been tracking it without knowing she was tracking it #Again, not the prose I want# — the thin, deliberate sound of it, each breath carefully spent. Now there was nothing. The air behind her was different. Quieter in a way that had nothing to do with sound.
 
 She did not stop. She did not look back.
 
