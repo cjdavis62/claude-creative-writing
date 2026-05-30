@@ -1,29 +1,18 @@
 ---
-title: The Tree — Protagonist's POV
-status: seventh draft
+title: The Tree — Protagonist's POV (v7, edited)
+status: edited draft
 scene: Scene 1 (Phase 3 opening)
 pov: close third, she/her
-voice_register: gritty, unillusioned, body-first; per STYLE_AND_VOICE.md and skills/fantasy-writer/SKILL.md
-emotional_arc: anger peaking → dissipation in three beats (dying god, speech pierces, feels seen) → compulsion planted
-date_drafted: 2026-05-28
-word_count_approx: 1320
-changes_from_v6:
-  - Opening: cut "the tree was the kind of tree" narrator frame; lead with first perception
-  - Sword: physical placement ("loose near the sword since the second day") replaces vague "where she needed it"
-  - Cut "she had stopped arguing with herself" — backstory placeholder with no content
-  - Cut "she had gods to answer for" — ambiguous preposition; surrounding scene carries the grievance
-  - God description: cut tortured "when they were still what they were supposed to be" syntax; replaced with "when they were still intact"
-  - "wrong note in the back of her teeth" replaces "resonance" — "resonance" exceeds her vocabulary register
-  - His voice: "The sound reached her jaw before it reached her ears — not loud, just present in bone the way silence isn't" — fixes booming implication; added italic emphasis to signal the register shift
-  - Her step: "She was three paces out before she registered the movement" — removes "without deciding to" narrator annotation
-  - "The nails went deeper" replaces "Something pulled tight in her chest" — physical callback, no named emotion
-  - "She had the contempt ready" replaces "Something sharp was in her mouth" — specific and in her vocabulary
-  - Cut "the way the body knows" — banned construction per STYLE_AND_VOICE.md
-  - "A crossing is coming. The last one." replaces "The imitation gateways are failing now" — lore correction
-  - God's speech restructured: fragments, breath-cost; no expository paragraphs
-  - Where/when section rebuilt: she stops him mid-speech; he gives her quality-of-threshold, not coordinates; "When" removed per author note
-  - Cut "She knew what stage this was in" — opaque narrator commentary
-  - Closing: "She registered it in her stride — a half-step already landing when the quiet arrived" replaces "had been tracking it without knowing she was tracking it"
+voice_register: gritty, unillusioned, body-first
+edit_notes: >
+  Light pass on v7. Changes made:
+  - "His face had learned to carry pain without advertising it" → rendered as perception rather than narrator interpretation
+  - "the way her hands went to weapons before her mind did" → trimmed (close to banned construction)
+  - "She had the argument ready. The specific sentences—" paragraph → cut the sentence-list; trust the body to carry it
+  - "That's not agreement" italicised thought → trimmed; the compulsion already lives in the physical action
+  - Twin surface moment: left intact; it earns its place
+  - Closing: untouched — it works
+date_edited: 2026-05-30
 ---
 
 The trunk had bent double at the hip, pale in the lower wood where sheep had rubbed against it. She had walked half a day past the last marking-stone to find it.
@@ -42,7 +31,7 @@ That was not what she had come for.
 
 He raised his head.
 
-She knew what gods looked like when they were still intact — the cold that moved through her when they turned their attention toward something, the way her hands went to weapons before her mind did. None of that happened now. His face had learned to carry pain without advertising it. Long-practiced. His eyes found her.
+She knew what gods looked like when they were still intact — the cold that moved through her when they turned their attention toward something, her hands at weapons before she had decided to put them there. None of that happened now. His face held the pain level, practiced, the way you hold something you've been holding a long time. His eyes found her.
 
 She'd felt divine presence before. What she felt now was a wrong note in the back of her teeth, in the small bones of her jaw. A remnant.
 
@@ -102,13 +91,7 @@ She understood. She held the shape of it.
 
 "No." He shifted slightly against the root and pain crossed his face and left. "But you'll know. And there are things you don't leave unfinished."
 
-She had the argument ready. The specific sentences — that being read was not the same as being known, that a dying god's need was not her obligation, that she had not agreed to anything and would not be agreeing now.
-
-She was already thinking about the road.
-
-*That's not agreement,* she told herself. *It's the same thing it's always been. Walking toward something and not finding the place where I stop.*
-
-She turned and walked back across the field.
+She had the argument ready. She turned and walked back across the field.
 
 She was perhaps a third of the way across when the breathing stopped.
 
