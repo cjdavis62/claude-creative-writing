@@ -23,15 +23,24 @@ revises without ego.
 
 ## Pre-Draft Checklist
 
-Before writing anything, the Writer must:
+This checklist is a hard gate. Do not begin writing until each step is complete.
 
-1. **Load relevant wiki entries** — pull all characters, locations, and lore elements
-   that will appear in the scene via `wikiAPI.search()` and `wikiAPI.get()`
-2. **Establish POV** — whose consciousness filters this scene? What do they want?
-   What do they fear? What do they notice that others wouldn't?
-3. **Identify the scene's job** — what must this scene accomplish?
-4. **Check established voice** — if the author has written samples, read them for
-   rhythm, sentence length, vocabulary register, POV distance
+**Step 1 — Lore check (mandatory, no exceptions)**
+Pull all wiki entries for every named entity, world mechanic, institution, or place that will appear in or be referenced by the scene. For each factual claim a character will make about how the world works — magic systems, institutions, historical events, the state of the world — verify against the wiki before writing it.
+
+If a scene requires a world fact that isn't in the wiki: do not invent it. Write around it and flag with `[LORE GAP: assumed X]`. A worldbuilding error that passes through to the author is a failure of this step.
+
+**Step 2 — Establish POV**
+Whose consciousness filters this scene? What do they want? What are they afraid of? What do they notice first (before they notice anything else)? What is the ceiling of abstraction their vocabulary reaches — what words would they never use?
+
+**Step 3 — Identify the scene's job**
+What must this scene accomplish? What is its turning point? What does it withhold?
+
+**Step 4 — Voice anchoring**
+Run the voice anchoring ritual from `skills/fantasy-writer/SKILL.md` before writing the first sentence. Read the voice exemplar. Write a throwaway warmup sentence. Discard it. Then write.
+
+**Step 5 — Check established voice**
+If the author has written samples in this POV, read them now. Match rhythm, sentence length, vocabulary register, POV distance.
 
 ---
 

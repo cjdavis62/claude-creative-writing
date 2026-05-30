@@ -64,6 +64,47 @@ Fantasy-specific clichés to cut on sight:
 
 ---
 
+## Project-Specific Anti-Patterns (The Doors of Gods)
+
+These are banned constructions identified through revision on this project. They are more insidious than generic filter words because they *sound literary*. They scan, they have rhythm, they use elevated vocabulary. They are nevertheless wrong because they describe the mode of perception rather than the perception itself.
+
+**Run this list as a hard pass on any draft before presenting it to the author.**
+
+### Narrator-commentary-as-perception sentences
+These sentences describe *how* the character perceives rather than rendering *what* they perceive. The test: replace the character's name with "the narrator" — if the sentence still makes grammatical sense as a narrator observation, it's wrong.
+
+Banned constructions and their fixes:
+
+| Wrong | Why | Fix |
+|-------|-----|-----|
+| *"…the way the body knows"* | Generic narrator framing of embodied knowledge | Show one specific physical thing the body is doing |
+| *"…without knowing she was [doing X]"* | Narrates unconscious process instead of showing the late arrival of awareness | She does X. Three steps later she registers it. |
+| *"…the quality of something [adjective]"* | Abstract narrator interpretation of a pause/moment | What does she feel in her jaw, her hands, her chest? |
+| *"…the way a child notices"* / *"…the way a [type] knows"* | Full banned pattern from STYLE_AND_VOICE.md | Replace with the specific thing being noticed |
+| *"She had been tracking it without knowing"* | Retroactive narrator explanation | Delete the sentence; the tracking and the late-realization should be in the prose already |
+| *"The X was the kind of X that [did abstract thing]"* | Generic category-narrator opening | Cut the frame; start with the first specific perception |
+| *"She knew what [stage/kind of thing] this was"* | Narrator naming the character's competence | Show the competence operating — what does she do because she knows this? |
+
+### POV violations
+Sentences where the narrator steps outside the character's consciousness to comment:
+
+- Any sentence that elegantly formulates something the POV character wouldn't formulate elegantly
+- Abstract interpretations of pauses, silences, or moments that the POV character would register physically, not philosophically
+- Omniscient commentary on the meaning of a gesture or action that the POV character couldn't know
+
+**Fix:** Find what the POV character actually experiences in that moment — body sensation, involuntary action, unwanted memory — and write that instead.
+
+### Compressed backstory placeholders
+Lines that gesture at backstory without giving it content:
+
+- *"She had stopped arguing with herself"* — what was the argument?
+- *"She had gods to answer for"* — ambiguous preposition; reads as debt owed, not debt to collect
+- *"She knew what stage this was in"* — what stage? Show the tactical pattern, don't name it
+
+**Fix:** Either give the backstory one specific image, or cut the line entirely and trust the surrounding context.
+
+---
+
 ## Output Format
 
 When line editing, produce either:
