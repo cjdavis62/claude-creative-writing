@@ -7,8 +7,9 @@ description: >
   architecture of a paragraph, why one sentence works and another doesn't, how to
   diagnose what's wrong with a draft, what tools to reach for to make it better.
   Trigger when the question is "is this prose any good, and why or why not, and what
-  would make it better?" The fantasy-writer skill provides craft principles; this skill
-  provides the deeper teaching that lets those principles operate at high specificity.
+  would make it better?" This skill is the primary repository of universal craft
+  principles. The fantasy-writer skill handles project-specific guidance (voice ritual,
+  banned constructions, lore discipline, divine speakers). Load both when drafting.
 ---
 
 # Creative Writing Instructor
@@ -160,6 +161,63 @@ choice is deliberate and the transitions are clean, the reader will follow. The 
 *deliberateness*: a POV change that the reader can locate as a structural choice is read
 as craft; an accidental drift between modes is read as confusion.
 
+### The performing narrator
+
+A specific mode of first person: the narrator who *knows they are constructing their own
+legend* and tells the story from inside that awareness. They are not merely remembering —
+they are composing, selecting, shaping, and sometimes admitting it.
+
+**What this mode enables:**
+
+- **Retrospective self-correction.** The narrator edits their own mythology in real time:
+  *"I feel I should mention that my reasons were not entirely altruistic."* This creates
+  intimacy and signals character complexity simultaneously.
+- **Strategic withholding.** A narrator who knows the future chooses what to emphasize.
+  The reader senses the selection and trusts the voice more for its honesty about the act
+  of selection.
+- **Voice as performance.** The narrator is aware of being interesting and uses that
+  awareness. The pleasure of the prose is partly the pleasure of watching a skilled
+  performer work.
+
+**What this mode requires:**
+
+- The narrator must be *genuinely interesting as a voice*, not just as a protagonist. The
+  performance must earn its confidence. An unremarkable narrator who performs confidence
+  reads as delusion.
+- Retrospective self-awareness cannot be applied inconsistently. If the narrator admits
+  complexity once, the reader expects honesty throughout.
+
+**The risk:** The narrator's self-awareness tips into showing off, and the prose becomes
+more interested in the narrator's wit than in the story. Test: does the self-aware move
+reveal something true about the character or event, or does it only demonstrate the
+narrator's cleverness? If the latter, cut it.
+
+### The mythic/legendary frame
+
+Some stories benefit from an opening that establishes the protagonist as already historic
+before we meet them — a narrator voice that speaks from after the events, with the
+authority of legend:
+
+> *His life is told of in the Deed of Ged and in many songs, but this is a tale of the
+> time before his fame, before the songs were made.*
+
+This technique trades intimacy for authority and scale. It gives small early scenes the
+weight of origin myth. The reader knows they are watching the beginning of something that
+mattered.
+
+**When to use it:** Works best when the protagonist's eventual greatness is part of the
+story's dramatic arc and the narrator has earned the authority to speak from the future.
+Not appropriate for close-third POV or protagonists whose fate is genuinely uncertain at
+the structural level.
+
+**The inversion:** The frame can be deliberately subverted — *"Every version of it is
+about the god, but there is no version that compares to mine"* — establishing that the
+true story belongs to someone other than the legend. This does ideological work
+(questioning who history remembers) while retaining the frame's structural weight.
+
+**The risk:** A legendary register that isn't earned reads as inflation. Use only when the
+story can deliver on the implied scale.
+
 ---
 
 ## Voice
@@ -244,6 +302,14 @@ Every scene is a unit of narrative work. The scene's job is to advance the story
 character, develop a relationship, establish a world detail, build or release tension.
 Most scenes do more than one of these.
 
+### Before writing a scene
+
+1. **Whose POV?** What do they want in this scene? What are they afraid of?
+2. **What is the scene's job?** (Advancing plot / revealing character / developing relationship / world / tension)
+3. **What is the scene's turning point?** Where does something change, and what changes?
+4. **What is the emotional register?** (Dread? Wonder? Grief? Relief? Something more complicated?)
+5. **What should this scene withhold?** Not every question answered. What does the reader need to keep wanting?
+
 ### The scene's spine
 
 - **Why is this scene happening?** (What's the dramatic question?)
@@ -311,6 +377,26 @@ tone.
   direction, trail off. Real speech has texture.
 - **Sound the same across speakers.** Each character's voice should be distinct.
 
+### Status mechanics in dialogue
+
+Every exchange has a status map: who holds power at the start, who wants it, who's
+pretending. Status is shown through small behaviors, not named:
+
+- Who moves toward whom. Who waits.
+- Who asks vs. who states. Questions concede; statements claim.
+- The hesitation before answering registers a status blow more precisely than any narration.
+- What gets ignored. Dismissing a point without refuting it is a dominance move.
+- Who changes the subject, and when.
+
+The moment of status reversal is often the scene's turning point. Show it through
+behavior: the character who was offering twenty pennies comes back sweating to offer the
+hall, and invents their own reasons for the change. They never admit the reversal. That's
+the point. Characters rarely announce status shifts — they perform them, or perform
+ignorance of them.
+
+Silence is a status move. A character who does not fill a silence is holding ground. A
+character who rushes to fill it is conceding.
+
 ---
 
 ## Pacing
@@ -327,6 +413,55 @@ transitional moments compress.
 - **The rhythm.** A chapter has its own rhythm. Long passages of summary followed by an
   extended scene followed by a beat of reflection. The pattern is not formulaic but it is
   felt: too much expansion exhausts the reader; too much compression starves them.
+
+---
+
+## Fantasy-specific craft
+
+### On magic and wonder
+- Magic should feel *real* in the scene — with texture, cost, and consequence.
+- The first instinct is usually too much explanation. Trust the reader. Show the effect before (or instead of) the mechanism.
+- Awe is conveyed through restraint: the character's inadequacy before the thing, not the thing described comprehensively.
+
+### On world and exposition
+- Exposition is a tax. Make the reader feel they're getting something in return.
+- Weave world into action and character: *She lit the offering-lamp the way her mother had, with the third finger, never the first — gods were particular about such things.*
+- The world should feel like it existed before the story and will continue after.
+- **Proverbs and folk sayings** encode social texture in minimal space. *Weak as woman's magic. Wicked as woman's magic.* Six words carry gender politics, cultural hierarchy, and a moral landscape — work that a paragraph of description cannot do as efficiently. A world with its own sayings feels lived-in. Sayings can also be ironic, contested, or proven wrong by the story — doing double duty as world-building and thematic argument.
+
+### On violence and consequence
+- Violence that doesn't cost anything narratively is entertainment, not story.
+- The body in fantasy is real. Pain is real. Death changes the shape of the world.
+- The moment after the violence is often more important than the violence itself.
+
+---
+
+## Comedy and tonal range
+
+Tonal monotony — prose that never varies its emotional register — is as rhythmically dead
+as prose with no sentence variety. A narrative that is uniformly grim gives the reader
+nothing to fall from. Light moments make hard passages land harder.
+
+Comic beats are constructed, not sprinkled:
+
+- **Placement is everything.** A joke lands on the weight-bearing beat — the last word,
+  the last line of a paragraph. Move it earlier and it deflates. The punchline earns its
+  force from position, not just content.
+- **Understatement over announcement.** The comic register that reads as wit never
+  explains itself. State the absurdity plainly and move on. Signaling that something is
+  funny kills it.
+- **The comic callback.** A detail planted earlier paid off later as a joke. Callbacks
+  reward attention and create the pleasure of recognition; they work especially well
+  across scene breaks.
+- **Comedy through contrast.** Serious setup, deflating punchline — or its reverse: a
+  trivial observation followed by sudden genuine weight. Either move depends on the reader
+  expecting the register to stay stable.
+- **Don't resolve the comic beat.** The joke placed at the end of a paragraph should end
+  the paragraph. Continuing past it explains the joke. Explaining kills it.
+
+The permission to let a character be briefly ridiculous, proud, warm, or quietly pleased
+is not a failure of seriousness. A world where no one is ever slightly absurd is a world
+no one believes in.
 
 ---
 
@@ -348,6 +483,7 @@ transitional moments compress.
   generic-narrator framing but is doing nothing. The narrator pointing at the character
   rather than inhabiting them.
 - **I-monotony in first person.** Too many sentences starting with *I*; vary openers.
+- **Tonal monotony.** Every scene the same emotional weight, every character equally serious. Without light, dark has no depth. Without warmth or lightness, hard passages lose their landing.
 
 ---
 
